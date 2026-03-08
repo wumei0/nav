@@ -236,6 +236,14 @@
               "description": "华侨银行（OCBC Bank，全称 Oversea-Chinese Banking Corporation）是新加坡历史最悠久的本土银行之一，也是东南亚第二大金融服务集团，以稳健的财务实力和广泛的区域网络著称。",
               "icon": "/assets/favicon_1772968248224.png",
               "enabled": true
+            },
+            {
+              "id": "1772968304474",
+              "title": "Swissquote 瑞讯银行",
+              "href": "https://trade.swissquote.ch/my.policy",
+              "description": "Swissquote 瑞讯银行是一家总部位于瑞士的在线银行和金融服务公司，以数字化交易平台和创新金融科技著称。它是瑞士最大的在线银行之一，专注于证券交易、外汇、加密货币和数字金融服务。",
+              "icon": "/assets/favicon_1772968316226.png",
+              "enabled": true
             }
           ]
         },
