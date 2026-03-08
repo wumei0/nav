@@ -400,6 +400,14 @@
               "description": "基于IP地址生成真实地址",
               "icon": "/assets/favicon_1772978514208.ico",
               "enabled": true
+            },
+            {
+              "id": "1772978625600",
+              "title": "去水印工具",
+              "href": "https://markcut.com/zh",
+              "description": "专业的 Gemini AI 图像水印去除工具 &amp; NotebookLM 图像水印去除工具。采用先进的反向 Alpha 混合算法，100% 浏览器本地处理，无需上传。快速、安全、保护隐私。",
+              "icon": "/assets/favicon_1772978631596.ico",
+              "enabled": true
             }
           ]
         },
