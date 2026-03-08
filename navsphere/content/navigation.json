@@ -235,6 +235,14 @@
               "description": "安全的多币种电子钱包，支持 fiat + crypto 存取、免费 P2P 转账、买卖加密货币、虚拟/实体卡消费，以及 B2B 批量支付和商户工具。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=account.volet.com",
               "enabled": true
+            },
+            {
+              "id": "1772993447354",
+              "title": "Kraken",
+              "href": "https://www.kraken.com/zh-cn",
+              "description": "在Kraken上买入、卖出、交易和储存加密货币，这是一个受监管的安全加密货币交易平台。",
+              "icon": "/assets/favicon_1772993450928.png",
+              "enabled": true
             }
           ]
         },
