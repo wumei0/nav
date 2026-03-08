@@ -348,71 +348,6 @@
           "items": []
         },
         {
-          "id": "42f51dc0-b4bc-4ff3-b1b5-96d4b56c4b3c",
-          "title": "📥 下载工具",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1772976899999",
-              "title": "视频图片解析",
-              "href": "https://weibo.iiilab.com",
-              "description": "微博、秒拍、绿洲、小咖秀、晃咖视频图片在线解析下载工具支持解析微博和秒拍里的视频真实地址,解析出来的绿洲和小咖秀视频没有水印,并支持下载视频和视频封面到本地,手机和电脑上都适用,轻轻松松保存微博图片和视频到手机相册.",
-              "icon": "/assets/favicon_1772976905360.ico",
-              "enabled": true
-            },
-            {
-              "id": "1772976944612",
-              "title": "视频下载",
-              "href": "https://tubedown.cn",
-              "description": "从Bilibili、YouTube、Facebook、Megavideo、Tubeplus、Vimeo 等更多网站下载任何视频。易用免费的在线Dooseen Tubedown Video Downloader。",
-              "icon": "/assets/favicon_1772976949644.ico",
-              "enabled": true
-            },
-            {
-              "id": "1772976988306",
-              "title": "AB 下载管理器",
-              "href": "https://abdownloadmanager.com",
-              "description": "开源的桌面下载工具，被很多人视为 IDM（Internet Download Manager）的优秀免费替代品，尤其适合追求无广告、高颜值界面和多线程加速的用户。",
-              "icon": "/assets/favicon_1772976992970.svg",
-              "enabled": true
-            },
-            {
-              "id": "1772977054293",
-              "title": "Video Downloader",
-              "href": "https://steptodown.com",
-              "description": "最简单快捷的视频下载工具，即可免费下载任何在线视频。无需注册，无限下载！只需输入网址即可开始下载。",
-              "icon": "/assets/favicon_1772977059668.png",
-              "enabled": true
-            },
-            {
-              "id": "1772977132949",
-              "title": "微信视频下载",
-              "href": "https://www.15um.com/tools/weixin_v.php",
-              "description": "微信视频在线下载, 公众号视频在线下载, 微信公众号视频批量下载",
-              "icon": "/assets/favicon_1772977138533.ico",
-              "enabled": true
-            },
-            {
-              "id": "1772977206391",
-              "title": "抖音视频下载",
-              "href": "https://www.15um.com/tools/douyin.php",
-              "description": "抖音无水印视频在线下载，抖音视频下载，抖音搞笑视频下载，抖音无水印视频在线下载！",
-              "icon": "/assets/favicon_1772977211849.ico",
-              "enabled": true
-            },
-            {
-              "id": "1772977246036",
-              "title": "M3U8播放器",
-              "href": "https://m3u8play.com",
-              "description": "M3U8文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索引纯文本文件，打开它时播放软件并不是播放它，而是根据它的索引找到对应的音视频文件的网络地址进行在线播放。",
-              "icon": "https://m3u8play.com/data:;base64,=",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "8760f4f8-ed38-4560-a97f-2b9a91984264",
           "title": "🌏 网络相关",
           "icon": "FolderOpen",
@@ -546,6 +481,71 @@
               "href": "https://wormhole.app",
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1772980546856.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "42f51dc0-b4bc-4ff3-b1b5-96d4b56c4b3c",
+          "title": "📥 下载工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1772976899999",
+              "title": "视频图片解析",
+              "href": "https://weibo.iiilab.com",
+              "description": "微博、秒拍、绿洲、小咖秀、晃咖视频图片在线解析下载工具支持解析微博和秒拍里的视频真实地址,解析出来的绿洲和小咖秀视频没有水印,并支持下载视频和视频封面到本地,手机和电脑上都适用,轻轻松松保存微博图片和视频到手机相册.",
+              "icon": "/assets/favicon_1772976905360.ico",
+              "enabled": true
+            },
+            {
+              "id": "1772976944612",
+              "title": "视频下载",
+              "href": "https://tubedown.cn",
+              "description": "从Bilibili、YouTube、Facebook、Megavideo、Tubeplus、Vimeo 等更多网站下载任何视频。易用免费的在线Dooseen Tubedown Video Downloader。",
+              "icon": "/assets/favicon_1772976949644.ico",
+              "enabled": true
+            },
+            {
+              "id": "1772976988306",
+              "title": "AB 下载管理器",
+              "href": "https://abdownloadmanager.com",
+              "description": "开源的桌面下载工具，被很多人视为 IDM（Internet Download Manager）的优秀免费替代品，尤其适合追求无广告、高颜值界面和多线程加速的用户。",
+              "icon": "/assets/favicon_1772976992970.svg",
+              "enabled": true
+            },
+            {
+              "id": "1772977054293",
+              "title": "Video Downloader",
+              "href": "https://steptodown.com",
+              "description": "最简单快捷的视频下载工具，即可免费下载任何在线视频。无需注册，无限下载！只需输入网址即可开始下载。",
+              "icon": "/assets/favicon_1772977059668.png",
+              "enabled": true
+            },
+            {
+              "id": "1772977132949",
+              "title": "微信视频下载",
+              "href": "https://www.15um.com/tools/weixin_v.php",
+              "description": "微信视频在线下载, 公众号视频在线下载, 微信公众号视频批量下载",
+              "icon": "/assets/favicon_1772977138533.ico",
+              "enabled": true
+            },
+            {
+              "id": "1772977206391",
+              "title": "抖音视频下载",
+              "href": "https://www.15um.com/tools/douyin.php",
+              "description": "抖音无水印视频在线下载，抖音视频下载，抖音搞笑视频下载，抖音无水印视频在线下载！",
+              "icon": "/assets/favicon_1772977211849.ico",
+              "enabled": true
+            },
+            {
+              "id": "1772977246036",
+              "title": "M3U8播放器",
+              "href": "https://m3u8play.com",
+              "description": "M3U8文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索引纯文本文件，打开它时播放软件并不是播放它，而是根据它的索引找到对应的音视频文件的网络地址进行在线播放。",
+              "icon": "https://m3u8play.com/data:;base64,=",
               "enabled": true
             }
           ]
