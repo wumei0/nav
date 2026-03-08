@@ -337,6 +337,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "42f51dc0-b4bc-4ff3-b1b5-96d4b56c4b3c",
+          "title": "📥 下载工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
