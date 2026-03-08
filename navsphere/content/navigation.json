@@ -119,6 +119,14 @@
               "description": "一个在线的个人订阅管理系统，提供了一款现代化的订阅管理工具，帮助用户轻松管理和追踪各种订阅服务的费用及续订情况",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.mokevin.dpdns.org",
               "enabled": true
+            },
+            {
+              "id": "site_1772961378929_8o9o3wa5j",
+              "title": "订阅链接转换工具",
+              "href": "https://sublink.778652.xyz/",
+              "description": "轻松转换和优化您的订阅链接",
+              "icon": "/assets/favicon_1772961347781.ico",
+              "enabled": true
             }
           ]
         }
