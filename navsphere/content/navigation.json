@@ -252,6 +252,14 @@
               "description": "iFAST Global Bank（简称 iFASTGB，奕丰环球银行）是一家总部位于英国的数字银行，隶属于新加坡上市金融科技集团 iFAST Corporation。它以“纯线上开户、零月费、支持中国大陆身份证”而受到跨境投资者和电商群体的关注。",
               "icon": "/assets/favicon_1772968371395.ico",
               "enabled": true
+            },
+            {
+              "id": "1772968422451",
+              "title": "Dukascopy Bank MCA",
+              "href": "https://my.dukascopy.bank/#/login",
+              "description": "杜高斯贝银行（Dukascopy Bank SA）是一家总部位于瑞士日内瓦的在线银行和金融服务机构，以外汇交易、差价合约（CFD）、贵金属和数字金融服务闻名。它在全球金融科技领域有较高知名度，尤其在外汇市场的专业交易者群体中。",
+              "icon": "/assets/favicon_1772968428335.ico",
+              "enabled": true
             }
           ]
         },
