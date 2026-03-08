@@ -150,6 +150,14 @@
           "description": "一个 安全、轻量、可定制的导航页，非常适合个人或小团队使用，既能保证数据安全，又能提升日常工作与学习的效率。",
           "icon": "/assets/favicon_1772993635828.ico",
           "enabled": true
+        },
+        {
+          "id": "1772993799018",
+          "title": "莫氏族谱",
+          "href": "https://family-tree.meiyue365.workers.dev",
+          "description": "家族内部传阅，切勿外泄。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=family-tree.meiyue365.workers.dev",
+          "enabled": true
         }
       ],
       "subCategories": [
