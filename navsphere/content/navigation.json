@@ -329,6 +329,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "69fa72a7-45a5-4313-92ec-223c4129ebfb",
+          "title": "✍️ 其它工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
