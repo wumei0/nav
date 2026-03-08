@@ -344,6 +344,14 @@
               "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
               "icon": "/assets/favicon_1772977324593.png",
               "enabled": true
+            },
+            {
+              "id": "1772978008727",
+              "title": "Time.is 全球时间",
+              "href": "https://time.is",
+              "description": "7,000,000 个地区，58 种语言，与原子钟同步运行。",
+              "icon": "/assets/favicon_1772978013527.ico",
+              "enabled": true
             }
           ]
         },
