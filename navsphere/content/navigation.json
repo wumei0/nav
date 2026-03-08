@@ -351,24 +351,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1760512235168",
-      "title": "开源项目",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "c58e0eb7-8d56-46cc-a00e-841e07500066",
-          "title": "文档工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
     }
   ]
 }
