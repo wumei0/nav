@@ -344,7 +344,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772976899999",
+              "title": "视频图片解析",
+              "href": "https://weibo.iiilab.com",
+              "description": "微博、秒拍、绿洲、小咖秀、晃咖视频图片在线解析下载工具支持解析微博和秒拍里的视频真实地址,解析出来的绿洲和小咖秀视频没有水印,并支持下载视频和视频封面到本地,手机和电脑上都适用,轻轻松松保存微博图片和视频到手机相册.",
+              "icon": "/assets/favicon_1772976905360.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
