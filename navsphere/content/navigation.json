@@ -307,6 +307,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
+          "title": "🌏网络通信",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "666dc310-bed0-4ba7-81b9-b288dc4788c8",
           "title": "🔐 云盘存储",
           "icon": "FolderOpen",
@@ -662,14 +670,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
-          "title": "🌏网络通信",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     }
