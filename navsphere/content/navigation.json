@@ -244,6 +244,14 @@
               "description": "Swissquote 瑞讯银行是一家总部位于瑞士的在线银行和金融服务公司，以数字化交易平台和创新金融科技著称。它是瑞士最大的在线银行之一，专注于证券交易、外汇、加密货币和数字金融服务。",
               "icon": "/assets/favicon_1772968316226.png",
               "enabled": true
+            },
+            {
+              "id": "1772968362253",
+              "title": "iFAST Global Bank",
+              "href": "https://www.ifastgb.com/en/login",
+              "description": "iFAST Global Bank（简称 iFASTGB，奕丰环球银行）是一家总部位于英国的数字银行，隶属于新加坡上市金融科技集团 iFAST Corporation。它以“纯线上开户、零月费、支持中国大陆身份证”而受到跨境投资者和电商群体的关注。",
+              "icon": "/assets/favicon_1772968371395.ico",
+              "enabled": true
             }
           ]
         },
