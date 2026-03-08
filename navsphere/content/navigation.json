@@ -443,6 +443,14 @@
               "enabled": true
             },
             {
+              "id": "1773012375918",
+              "title": "Microsoft Office Mac 工具",
+              "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
+              "description": "适用于 macOS 的 Microsoft Office 安装程序",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/1/19/20190920145105%21Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
+              "enabled": true
+            },
+            {
               "id": "1772980483927",
               "title": "文件快递柜",
               "href": "https://share.lanol.cn",
@@ -472,14 +480,6 @@
               "href": "https://t.me/setlanguage/classic-zh-cn",
               "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
               "icon": "/assets/favicon_1772993149045.svg",
-              "enabled": true
-            },
-            {
-              "id": "1773012375918",
-              "title": "Microsoft Office Mac 工具",
-              "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
-              "description": "适用于 macOS 的 Microsoft Office 安装程序",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/1/19/20190920145105%21Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
               "enabled": true
             }
           ]
