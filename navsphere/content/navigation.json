@@ -89,6 +89,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1772959946862",
+      "title": "我的项目",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
