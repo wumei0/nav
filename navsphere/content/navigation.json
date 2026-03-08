@@ -384,6 +384,14 @@
               "description": "把表格工作从枯燥的单元格输入，升级成了和 AI 对话的体验，让你用自然语言来创建、修改、分析数据，并可直观地画出图表。",
               "icon": "/assets/favicon_1772978309465.ico",
               "enabled": true
+            },
+            {
+              "id": "1772978361870",
+              "title": "地址生成器",
+              "href": "https://realaddress.fuyiran.com",
+              "description": "随机真实地址，可根据指定地图生成。",
+              "icon": "/assets/img_1772978404285.png",
+              "enabled": true
             }
           ]
         },
