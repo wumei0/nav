@@ -352,6 +352,14 @@
               "description": "一款广泛使用的网络测速工具，由Ookla公司开发。它的主要功能是帮助用户快速检测当前网络连接的下载、上传速度和延迟（Ping值），从而降低网络质量。",
               "icon": "/assets/favicon_1772979546100.ico",
               "enabled": true
+            },
+            {
+              "id": "1772979697455",
+              "title": "大学测速",
+              "href": "https://test.ustc.edu.cn",
+              "description": "中国科学技术大学测速网站（test.ustc.edu.cn）是由中科大网络空间安全学院提供的网络测速服务平台，支持IPv4与IPv6测试，用户可快速检测下载速度、上传速度与延迟。",
+              "icon": "/assets/favicon_1772979721898.ico",
+              "enabled": true
             }
           ]
         },
