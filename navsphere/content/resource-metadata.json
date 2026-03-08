@@ -1,5 +1,11 @@
 {
   "commit": "5f6a88320da27c4d284996d498842934ad1d8d19",
   "generated": "Sun, 11 Feb 2024 21:48:22 GMT",
-  "metadata": []
+  "metadata": [
+    {
+      "commit": "1b8d34535eeab5f77dd5f87970ff00ee5f73b1e2",
+      "hash": "1b8d34535eeab5f77dd5f87970ff00ee5f73b1e2",
+      "path": "/assets/img_1772967908934.png"
+    }
+  ]
 }
