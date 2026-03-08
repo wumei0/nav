@@ -94,7 +94,7 @@
           "title": "我的项目",
           "icon": "LayoutGrid",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": [
             {
               "id": "site_1772960216275_zg5jhiew6",
