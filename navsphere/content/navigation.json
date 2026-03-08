@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
