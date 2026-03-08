@@ -432,6 +432,14 @@
               "description": "所有流行的图标集，尽在一个框架中。超过 20 万个开源矢量图标。",
               "icon": "/assets/favicon_1772978881329.ico",
               "enabled": true
+            },
+            {
+              "id": "1772978970025",
+              "title": "Escrcpy 投屏",
+              "href": "https://viarotel.eu.org/zhHans",
+              "description": "优雅而强大的跨平台 Android 设备控制工具，基于 Scrcpy 的 Electron 应用,支持无线连接和多设备管理,让您的电脑成为 Android 的完美伴侣。",
+              "icon": "/assets/favicon_1772978987332.ico",
+              "enabled": true
             }
           ]
         },
