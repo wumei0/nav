@@ -321,6 +321,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8760f4f8-ed38-4560-a97f-2b9a91984264",
+          "title": "🌏 网络相关",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
