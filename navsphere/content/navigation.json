@@ -352,6 +352,14 @@
               "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
               "icon": "/assets/favicon_1772980374238.svg",
               "enabled": true
+            },
+            {
+              "id": "1772980411105",
+              "title": "BentoPDF -  PDF 工具",
+              "href": "https://www.bentopdf.com/index.html",
+              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
+              "icon": "/assets/favicon_1772980422090.svg",
+              "enabled": true
             }
           ]
         },
