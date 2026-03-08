@@ -328,6 +328,14 @@
               "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
               "icon": "/assets/favicon_1772980217446.ico",
               "enabled": true
+            },
+            {
+              "id": "1772980230210",
+              "title": "OCR文字识别",
+              "href": "https://uutool.cn/ocr",
+              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+              "icon": "/assets/favicon_1772980235349.png",
+              "enabled": true
             }
           ]
         },
