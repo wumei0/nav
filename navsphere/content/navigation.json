@@ -127,14 +127,6 @@
               "description": "轻松转换和优化您的订阅链接",
               "icon": "/assets/favicon_1772961347781.ico",
               "enabled": true
-            },
-            {
-              "id": "site_1772962077629_s34nb3ize",
-              "title": "工作台",
-              "href": "https://note.xiaoyue360.workers.dev",
-              "description": "一款基于Cloudflare Workers + KV驱动的轻量化个人笔记系统。追求宣纸感的极致阅读体验与沉浸式创作",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=note.xiaoyue360.workers.dev",
-              "enabled": true
             }
           ]
         }
