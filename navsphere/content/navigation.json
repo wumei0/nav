@@ -28,7 +28,7 @@
           "title": "Google 表格",
           "href": "https://docs.google.com/spreadsheets/u/0/",
           "description": "Google 表格（Google Sheets） 是 Google 开发的在线电子表格应用，属于 Google Workspace（原 G Suite）的一部分。它与传统的 Excel 类似，但基于云端运行，支持多人实时协作和跨设备访问。",
-          "icon": "/assets/favicon_1772958796056.png",
+          "icon": "/assets/img_1772967908934.png",
           "enabled": true
         },
         {
