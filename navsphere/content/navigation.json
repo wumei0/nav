@@ -328,7 +328,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772979234931",
+              "title": "IP信息",
+              "href": "https://ipcheck.ing/#/",
+              "description": "一个更好、更开源的IP工具箱，轻松查看内容。",
+              "icon": "/assets/favicon_1772979239568.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "69fa72a7-45a5-4313-92ec-223c4129ebfb",
