@@ -368,6 +368,14 @@
               "description": "Cloudflare提供测速网站speed.cloudflare.com 是一个基于其全球边缘网络的快速互联网测速工具，用户可以检测下载、上传速度、延迟和延迟，评估网络性能。",
               "icon": "/assets/favicon_1772979770951.png",
               "enabled": true
+            },
+            {
+              "id": "1772979882258",
+              "title": "IP 纯净度",
+              "href": "https://scamalytics.com/ip",
+              "description": "查询任意 IP 地址以进行欺诈检测。查看欺诈评分，以及包括真实国家/地区、运营商、代理状态和 Tor 状态在内的支持信息。",
+              "icon": "/assets/favicon_1772979887397.png",
+              "enabled": true
             }
           ]
         },
