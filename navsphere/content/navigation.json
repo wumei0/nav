@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772958735344_s2qt6lvjr",
+          "title": "YouTube",
+          "href": "https://www.youtube.com",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1772958730976.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
