@@ -588,6 +588,14 @@
               "description": "M3U8文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索引纯文本文件，打开它时播放软件并不是播放它，而是根据它的索引找到对应的音视频文件的网络地址进行在线播放。",
               "icon": "https://m3u8play.com/data:;base64,=",
               "enabled": true
+            },
+            {
+              "id": "site_1772983957101_7ptvknn5q",
+              "title": "FetchV视频下载器",
+              "href": "https://fetchv.net/zh-cn",
+              "description": "FetchV 是一款免费的网页视频下载扩展，支持 Chrome、Edge、Firefox 和其他浏览器，并支持大多数在线视频网站。",
+              "icon": "/assets/favicon_1772983921306.png",
+              "enabled": true
             }
           ]
         },
