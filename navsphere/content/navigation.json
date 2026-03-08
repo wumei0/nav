@@ -336,7 +336,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772977313236",
+              "title": "临时邮箱",
+              "href": "https://smail.pw",
+              "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
+              "icon": "/assets/favicon_1772977324593.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "42f51dc0-b4bc-4ff3-b1b5-96d4b56c4b3c",
