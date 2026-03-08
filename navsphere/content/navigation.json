@@ -416,6 +416,14 @@
               "description": "快速轻松地去除 NotebookLM 生成内容中的水印。几秒钟内即可获得干净、专业的效果。",
               "icon": "/assets/favicon_1772978702454.png",
               "enabled": true
+            },
+            {
+              "id": "1772978800044",
+              "title": "Favicon.is",
+              "href": "https://favicon.is",
+              "description": "快速的 Favicon 获取 API 服务，专门用来帮开发者或网站快速拿到任意网站的网站图标",
+              "icon": "/assets/favicon_1772978803583.png",
+              "enabled": true
             }
           ]
         },
