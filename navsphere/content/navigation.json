@@ -336,6 +336,14 @@
               "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
               "icon": "/assets/favicon_1772980235349.png",
               "enabled": true
+            },
+            {
+              "id": "1772980293145",
+              "title": "二维码识别",
+              "href": "https://uutool.cn/qrcode-decode",
+              "description": "二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
+              "icon": "/assets/favicon_1772980304794.png",
+              "enabled": true
             }
           ]
         },
