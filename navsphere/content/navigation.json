@@ -312,7 +312,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772980701515",
+              "title": "MEGA ",
+              "href": "https://mega.nz/login",
+              "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
+              "icon": "/assets/favicon_1772980714693.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "10c26402-b55e-4c0a-a6c5-facd76deee3b",
