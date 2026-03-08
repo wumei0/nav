@@ -22,6 +22,14 @@
           "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
           "icon": "/assets/favicon_1772958754906.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772958834818_gdmtbiejx",
+          "title": "Google 表格",
+          "href": "https://docs.google.com/spreadsheets/u/0/",
+          "description": "Google 表格（Google Sheets） 是 Google 开发的在线电子表格应用，属于 Google Workspace（原 G Suite）的一部分。它与传统的 Excel 类似，但基于云端运行，支持多人实时协作和跨设备访问。",
+          "icon": "/assets/favicon_1772958796056.png",
+          "enabled": true
         }
       ],
       "subCategories": []
