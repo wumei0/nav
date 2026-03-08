@@ -376,6 +376,14 @@
               "description": "查询任意 IP 地址以进行欺诈检测。查看欺诈评分，以及包括真实国家/地区、运营商、代理状态和 Tor 状态在内的支持信息。",
               "icon": "/assets/favicon_1772979887397.png",
               "enabled": true
+            },
+            {
+              "id": "1772979936916",
+              "title": "IP 质量检测 ",
+              "href": "https://ipjiance.com",
+              "description": "专门用于检测IP地址质量的在线工具，用户可以输入IP来分析其基本信息、运营商归属、代理情况、黑名单状态等，常用于跨境电商、海外社交平台引流和网络安全检测。",
+              "icon": "/assets/favicon_1772979940561.ico",
+              "enabled": true
             }
           ]
         },
