@@ -426,6 +426,14 @@
               "description": "一家全球知名的跨国电信运营商，总部位于英国伯克郡纽伯里（Newbury, Berkshire），是世界上历史最悠久、规模最大的移动通信公司之一。",
               "icon": "/assets/favicon_1772981250228.png",
               "enabled": true
+            },
+            {
+              "id": "1772981288259",
+              "title": "香港 Club SIM",
+              "href": "https://www.clubsim.com.hk/zh",
+              "description": "Club SIM 官网是香港用户申请和管理预付费 SIM 卡与数据服务。",
+              "icon": "/assets/favicon_1772981292307.png",
+              "enabled": true
             }
           ]
         },
