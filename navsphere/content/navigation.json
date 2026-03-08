@@ -110,6 +110,14 @@
           "description": "这里记录了我关于 Cloudflare 的各种配置方案、边缘计算（Workers）脚本以及网络优化的实战笔记。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=cf-notes.xiaoyue360.workers.dev",
           "enabled": true
+        },
+        {
+          "id": "site_1772966672644_ncshlz2wm",
+          "title": "MISUB",
+          "href": "https://sub.778652.xyz/login",
+          "description": "基于 Cloudflare 的订阅转换和管理工具",
+          "icon": "/assets/favicon_1772966666342.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
