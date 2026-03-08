@@ -142,8 +142,8 @@
     },
     {
       "id": "1772959946862",
-      "title": "我的项目",
-      "icon": "FolderKanban",
+      "title": "AI工具包",
+      "icon": "Brain",
       "description": "",
       "enabled": true,
       "items": [],
