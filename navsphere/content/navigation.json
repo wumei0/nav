@@ -408,6 +408,14 @@
               "description": "专业的 Gemini AI 图像水印去除工具 &amp; NotebookLM 图像水印去除工具。采用先进的反向 Alpha 混合算法，100% 浏览器本地处理，无需上传。快速、安全、保护隐私。",
               "icon": "/assets/favicon_1772978631596.ico",
               "enabled": true
+            },
+            {
+              "id": "1772978696546",
+              "title": "去水印",
+              "href": "https://www.notebooklmwatermark.com/",
+              "description": "快速轻松地去除 NotebookLM 生成内容中的水印。几秒钟内即可获得干净、专业的效果。",
+              "icon": "/assets/favicon_1772978702454.png",
+              "enabled": true
             }
           ]
         },
