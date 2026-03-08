@@ -180,6 +180,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1772967183250",
+      "title": "金融投资",
+      "icon": "Target",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
