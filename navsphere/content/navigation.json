@@ -418,6 +418,14 @@
               "description": "一个提供全球虚拟手机号接收短信验证码的在线服务平台。",
               "icon": "/assets/favicon_1772981182742.png",
               "enabled": true
+            },
+            {
+              "id": "1772981245894",
+              "title": "德国·沃达丰",
+              "href": "https://www.vodafone.de/meinvodafone/services/teilnehmer/quickcheck?accordion=balanceDetails",
+              "description": "一家全球知名的跨国电信运营商，总部位于英国伯克郡纽伯里（Newbury, Berkshire），是世界上历史最悠久、规模最大的移动通信公司之一。",
+              "icon": "/assets/favicon_1772981250228.png",
+              "enabled": true
             }
           ]
         },
