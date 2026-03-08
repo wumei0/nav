@@ -352,6 +352,14 @@
               "description": "7,000,000 个地区，58 种语言，与原子钟同步运行。",
               "icon": "/assets/favicon_1772978013527.ico",
               "enabled": true
+            },
+            {
+              "id": "1772978058625",
+              "title": "汇率换算器",
+              "href": "https://wise.com/zh-cn/currency-converter",
+              "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
+              "icon": "/assets/favicon_1772978063671.png",
+              "enabled": true
             }
           ]
         },
