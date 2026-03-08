@@ -129,14 +129,6 @@
           "enabled": false,
           "items": [
             {
-              "id": "site_1772961265634_dm1cuxym7",
-              "title": "MISUB",
-              "href": "https://sub.778652.xyz/login",
-              "description": "基于 Cloudflare 的订阅转换和管理工具",
-              "icon": "/assets/favicon_1772961241076.svg",
-              "enabled": true
-            },
-            {
               "id": "site_1772961315430_eageskhwx",
               "title": "订阅管理系统",
               "href": "https://sub.mokevin.dpdns.org/",
