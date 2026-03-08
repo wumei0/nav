@@ -344,6 +344,14 @@
               "description": "高精度IP归属地查询工具",
               "icon": "/assets/favicon_1772979307168.png",
               "enabled": true
+            },
+            {
+              "id": "1772979522138",
+              "title": "Speedtest 测速",
+              "href": "https://www.speedtest.net",
+              "description": "一款广泛使用的网络测速工具，由Ookla公司开发。它的主要功能是帮助用户快速检测当前网络连接的下载、上传速度和延迟（Ping值），从而降低网络质量。",
+              "icon": "/assets/favicon_1772979546100.ico",
+              "enabled": true
             }
           ]
         },
