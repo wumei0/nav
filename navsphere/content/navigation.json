@@ -38,6 +38,14 @@
           "description": "Outlook是微软提供的免费电子邮件服务，既能满足个人通信需求，也能与微软生态系统深度整合，支持办公、云存储和跨设备同步。",
           "icon": "/assets/favicon_1772958855813.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772959012618_51bmrg9ok",
+          "title": "x.com",
+          "href": "https://x.com/home",
+          "description": "推特（Twitter，现更名为 X）是一家源自美国的社交网络与微博客平台，用户可以通过“推文”快速分享短消息、图片和视频，如今已成为全球最具影响力的社交媒体之一。",
+          "icon": "/assets/favicon_1772958992145.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
