@@ -269,7 +269,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772969742468",
+              "title": "Moomoo新加坡",
+              "href": "https://www.moomoo.com/sg/hans",
+              "description": "新加坡第一的交易平台。投资美国和新加坡股票、期权、比特币、以太坊、瑞波币（XRP）、交易所交易基金（ETF）等，0*佣金。",
+              "icon": "/assets/favicon_1772969747077.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
