@@ -313,6 +313,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "10c26402-b55e-4c0a-a6c5-facd76deee3b",
+          "title": "✏️ 文本工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
