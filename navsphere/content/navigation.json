@@ -103,6 +103,14 @@
               "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=notes.778652.xyz",
               "enabled": true
+            },
+            {
+              "id": "site_1772961265634_dm1cuxym7",
+              "title": "MISUB",
+              "href": "https://sub.778652.xyz/login",
+              "description": "基于 Cloudflare 的订阅转换和管理工具",
+              "icon": "/assets/favicon_1772961241076.svg",
+              "enabled": true
             }
           ]
         }
