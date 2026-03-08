@@ -151,7 +151,7 @@
           "id": "site_1772963164970_v72f95nus",
           "title": "Gemini",
           "href": "https://gemini.google.com/app",
-          "description": "Google 新一代生成式 AI 助理（generative AI assistant）的核心使用页面，取代了之前的 Bard",
+          "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
           "icon": "/assets/favicon_1772962983349.png",
           "enabled": true
         },
