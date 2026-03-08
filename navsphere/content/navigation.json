@@ -699,7 +699,7 @@
               "title": "Time.is 全球时间",
               "href": "https://time.is",
               "description": "7,000,000 个地区，58 种语言，与原子钟同步运行。",
-              "icon": "/assets/favicon_1772978013527.ico",
+              "icon": "https://favicon.is/time.is?larger=true",
               "enabled": true
             },
             {
