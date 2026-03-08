@@ -46,6 +46,14 @@
           "description": "推特（Twitter，现更名为 X）是一家源自美国的社交网络与微博客平台，用户可以通过“推文”快速分享短消息、图片和视频，如今已成为全球最具影响力的社交媒体之一。",
           "icon": "/assets/favicon_1772958992145.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1772959056034_bjox57su0",
+          "title": "Dropbox",
+          "href": "https://www.dropbox.com/home",
+          "description": "Dropbox 是一家全球知名的云存储与文件同步服务商，成立于 2007 年，总部位于美国旧金山。它通过“云计算”技术让用户在不同设备之间轻松存储、同步和共享文件。",
+          "icon": "/assets/favicon_1772959032881.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
