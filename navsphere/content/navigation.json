@@ -352,6 +352,14 @@
               "description": "微博、秒拍、绿洲、小咖秀、晃咖视频图片在线解析下载工具支持解析微博和秒拍里的视频真实地址,解析出来的绿洲和小咖秀视频没有水印,并支持下载视频和视频封面到本地,手机和电脑上都适用,轻轻松松保存微博图片和视频到手机相册.",
               "icon": "/assets/favicon_1772976905360.ico",
               "enabled": true
+            },
+            {
+              "id": "1772976944612",
+              "title": "视频下载",
+              "href": "https://tubedown.cn",
+              "description": "从Bilibili、YouTube、Facebook、Megavideo、Tubeplus、Vimeo 等更多网站下载任何视频。易用免费的在线Dooseen Tubedown Video Downloader。",
+              "icon": "/assets/favicon_1772976949644.ico",
+              "enabled": true
             }
           ]
         }
