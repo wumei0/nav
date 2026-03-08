@@ -211,6 +211,14 @@
               "description": "PayPal不仅是一个支付工具，更是一个全球化的金融科技生态系统，通过安全、便捷的支付方式连接消费者与商户。它的定位是让资金流动更加高效，同时积极探索区块链与AI等新技术，以保持在数字支付领域的领先地位。",
               "icon": "/assets/favicon_1772967499129.png",
               "enabled": true
+            },
+            {
+              "id": "1772967646109",
+              "title": "epay 易派",
+              "href": "https://www.epay.com/zh-CN",
+              "description": "易派汇款的新闻板块主要介绍跨境汇款的基础知识，全球金融市场动态，如何结汇人民币和全球的本地银行的代收发的业务场景和操作办法。",
+              "icon": "/assets/favicon_1772967664998.png",
+              "enabled": true
             }
           ]
         },
