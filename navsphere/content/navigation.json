@@ -674,7 +674,7 @@
               "title": "M3U8播放器",
               "href": "https://m3u8play.com",
               "description": "M3U8文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索引纯文本文件，打开它时播放软件并不是播放它，而是根据它的索引找到对应的音视频文件的网络地址进行在线播放。",
-              "icon": "https://m3u8play.com/data:;base64,=",
+              "icon": "https://favicon.is/youtube.com",
               "enabled": true
             }
           ]
