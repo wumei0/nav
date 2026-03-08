@@ -368,6 +368,14 @@
               "description": "开源的桌面下载工具，被很多人视为 IDM（Internet Download Manager）的优秀免费替代品，尤其适合追求无广告、高颜值界面和多线程加速的用户。",
               "icon": "/assets/favicon_1772976992970.svg",
               "enabled": true
+            },
+            {
+              "id": "1772977054293",
+              "title": "Video Downloader",
+              "href": "https://steptodown.com",
+              "description": "最简单快捷的视频下载工具，即可免费下载任何在线视频。无需注册，无限下载！只需输入网址即可开始下载。",
+              "icon": "/assets/favicon_1772977059668.png",
+              "enabled": true
             }
           ]
         }
