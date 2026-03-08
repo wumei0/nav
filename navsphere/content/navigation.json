@@ -142,6 +142,14 @@
           "description": "每天花时间逐一点击检查、更新状态、剔除失效或变质的链接，宁可少而精，也不愿滥竽充数。",
           "icon": "https://www.wangwangit.com/images/head/a.webp",
           "enabled": true
+        },
+        {
+          "id": "1772993631197",
+          "title": "云网智航",
+          "href": "https://cloudnav-6wk.pages.dev",
+          "description": "一个 安全、轻量、可定制的导航页，非常适合个人或小团队使用，既能保证数据安全，又能提升日常工作与学习的效率。",
+          "icon": "/assets/favicon_1772993635828.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
