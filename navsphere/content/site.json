@@ -5,8 +5,8 @@
     "keywords": "个人书签、网址导航"
   },
   "appearance": {
-    "logo": "/assets/images/alogo.webp",
-    "favicon": "/assets/images/favicon.webp",
+    "logo": "https://nav.778652.xyz/assets/img_1768038788283.png",
+    "favicon": "https://nav.778652.xyz/assets/img_1768038788283.png",
     "theme": "system"
   },
   "navigation": {
