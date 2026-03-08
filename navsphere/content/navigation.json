@@ -162,6 +162,14 @@
           "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。",
           "icon": "/assets/favicon_1772963210687.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1772963406037_vnhhcpelf",
+          "title": "Grok",
+          "href": "https://grok.com",
+          "description": "Grok 是由 xAI 开发的免费 AI 助手，旨在最大限度地提高准确性和客观性。Grok 提供实时搜索、图像生成、趋势分析等功能。",
+          "icon": "/assets/favicon_1772963377293.png",
+          "enabled": true
         }
       ],
       "subCategories": []
