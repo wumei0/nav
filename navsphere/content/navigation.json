@@ -105,14 +105,6 @@
           "enabled": false,
           "items": [
             {
-              "id": "site_1772960216275_zg5jhiew6",
-              "title": "📝 笔记应用",
-              "href": "https://notes.778652.xyz/",
-              "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
-              "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
-              "enabled": true
-            },
-            {
               "id": "site_1772961265634_dm1cuxym7",
               "title": "MISUB",
               "href": "https://sub.778652.xyz/login",
