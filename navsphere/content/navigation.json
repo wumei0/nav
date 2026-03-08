@@ -344,6 +344,14 @@
               "description": "二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
               "icon": "/assets/favicon_1772980304794.png",
               "enabled": true
+            },
+            {
+              "id": "1772980369294",
+              "title": "PDFCraft - 专业 PDF 工具",
+              "href": "https://pdfcraft.devtoolcafe.com/zh",
+              "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
+              "icon": "/assets/favicon_1772980374238.svg",
+              "enabled": true
             }
           ]
         },
