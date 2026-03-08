@@ -368,6 +368,14 @@
               "description": "开箱即用的文件快传系统",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=share.lanol.cn",
               "enabled": true
+            },
+            {
+              "id": "1772980542397",
+              "title": "私密的文件共享",
+              "href": "https://wormhole.app",
+              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1772980546856.png",
+              "enabled": true
             }
           ]
         },
