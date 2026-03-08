@@ -95,7 +95,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1772960216275_zg5jhiew6",
+              "title": "📝 笔记应用",
+              "href": "https://notes.778652.xyz/",
+              "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=notes.778652.xyz",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
