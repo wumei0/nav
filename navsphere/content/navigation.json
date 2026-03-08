@@ -440,6 +440,14 @@
               "description": "优雅而强大的跨平台 Android 设备控制工具，基于 Scrcpy 的 Electron 应用,支持无线连接和多设备管理,让您的电脑成为 Android 的完美伴侣。",
               "icon": "/assets/favicon_1772978987332.ico",
               "enabled": true
+            },
+            {
+              "id": "1772979036071",
+              "title": "在线笔记本",
+              "href": "https://notepin.co",
+              "description": "无需注册，即可轻松记笔记和写博客。几秒钟即可创建您自己的在线笔记本。",
+              "icon": "/assets/favicon_1772979039965.png",
+              "enabled": true
             }
           ]
         },
