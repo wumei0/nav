@@ -195,7 +195,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772967325895",
+              "title": "Wise",
+              "href": "https://wise.com/login",
+              "description": "Wise专注于跨境汇款和多币种账户服务，以“透明汇率、低手续费”著称。它为个人和企业提供更便捷的国际支付解决方案。",
+              "icon": "/assets/favicon_1772967330195.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "fad18118-48f3-4afc-9742-64427dc7349a",
