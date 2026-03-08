@@ -134,6 +134,14 @@
           "description": "轻松转换和优化您的订阅链接",
           "icon": "https://nav.778652.xyz/assets/favicon_1769718235433.ico",
           "enabled": true
+        },
+        {
+          "id": "1772993539288",
+          "title": "拾光集",
+          "href": "https://nav.meiyue365.workers.dev",
+          "description": "每天花时间逐一点击检查、更新状态、剔除失效或变质的链接，宁可少而精，也不愿滥竽充数。",
+          "icon": "https://www.wangwangit.com/images/head/a.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
