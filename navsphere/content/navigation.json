@@ -158,6 +158,14 @@
           "description": "家族内部传阅，切勿外泄。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=family-tree.meiyue365.workers.dev",
           "enabled": true
+        },
+        {
+          "id": "1772994025208",
+          "title": "莫氏族谱",
+          "href": "https://family-tree.xiaoyue360.workers.dev",
+          "description": "家族内部传阅，切勿外泄。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=family-tree.xiaoyue360.workers.dev",
+          "enabled": true
         }
       ],
       "subCategories": [
