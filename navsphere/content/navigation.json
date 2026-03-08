@@ -424,6 +424,14 @@
               "description": "快速的 Favicon 获取 API 服务，专门用来帮开发者或网站快速拿到任意网站的网站图标",
               "icon": "/assets/favicon_1772978803583.png",
               "enabled": true
+            },
+            {
+              "id": "1772978875959",
+              "title": "Iconify 图标集",
+              "href": "https://icon-sets.iconify.design",
+              "description": "所有流行的图标集，尽在一个框架中。超过 20 万个开源矢量图标。",
+              "icon": "/assets/favicon_1772978881329.ico",
+              "enabled": true
             }
           ]
         },
