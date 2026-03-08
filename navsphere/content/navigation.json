@@ -340,6 +340,14 @@
           ]
         },
         {
+          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
+          "title": "🌏网络通信",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "42f51dc0-b4bc-4ff3-b1b5-96d4b56c4b3c",
           "title": "📥 下载工具",
           "icon": "FolderOpen",
@@ -476,14 +484,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
-          "title": "🌏网络通信",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         },
         {
           "id": "10c26402-b55e-4c0a-a6c5-facd76deee3b",
