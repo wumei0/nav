@@ -368,6 +368,14 @@
               "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
               "icon": "/assets/favicon_1772978133730.png",
               "enabled": true
+            },
+            {
+              "id": "1772978232973",
+              "title": "HexHub",
+              "href": "https://www.hexhub.cn",
+              "description": "HexHub 为程序员和运维人员量身打造的一站式开发运维利器。",
+              "icon": "/assets/favicon_1772978239004.png",
+              "enabled": true
             }
           ]
         },
