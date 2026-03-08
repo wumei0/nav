@@ -392,6 +392,14 @@
               "description": "随机真实地址，可根据指定地图生成。",
               "icon": "/assets/img_1772978404285.png",
               "enabled": true
+            },
+            {
+              "id": "1772978508498",
+              "title": "真实地址生成器",
+              "href": "https://ip-geoaddress-generator.pages.dev",
+              "description": "基于IP地址生成真实地址",
+              "icon": "/assets/favicon_1772978514208.ico",
+              "enabled": true
             }
           ]
         },
