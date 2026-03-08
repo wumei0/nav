@@ -146,7 +146,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772963164970_v72f95nus",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/app",
+          "description": "Google 的新一代生成式 AI 助理（generative AI assistant）的核心使用页面，取代了之前的 Bard",
+          "icon": "/assets/favicon_1772962983349.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
