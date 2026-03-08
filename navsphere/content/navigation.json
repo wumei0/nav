@@ -372,79 +372,6 @@
           ]
         },
         {
-          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
-          "title": "🌏网络通信",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "10c26402-b55e-4c0a-a6c5-facd76deee3b",
-          "title": "✏️ 文本工具",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1772980213444",
-              "title": "Google 翻译",
-              "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
-              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
-              "icon": "/assets/favicon_1772980217446.ico",
-              "enabled": true
-            },
-            {
-              "id": "1772980230210",
-              "title": "OCR文字识别",
-              "href": "https://uutool.cn/ocr",
-              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
-              "icon": "/assets/favicon_1772980235349.png",
-              "enabled": true
-            },
-            {
-              "id": "1772980293145",
-              "title": "二维码识别",
-              "href": "https://uutool.cn/qrcode-decode",
-              "description": "二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
-              "icon": "/assets/favicon_1772980304794.png",
-              "enabled": true
-            },
-            {
-              "id": "1772980369294",
-              "title": "PDFCraft - 专业 PDF 工具",
-              "href": "https://pdfcraft.devtoolcafe.com/zh",
-              "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
-              "icon": "/assets/favicon_1772980374238.svg",
-              "enabled": true
-            },
-            {
-              "id": "1772980411105",
-              "title": "BentoPDF -  PDF 工具",
-              "href": "https://www.bentopdf.com/index.html",
-              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
-              "icon": "/assets/favicon_1772980422090.svg",
-              "enabled": true
-            },
-            {
-              "id": "1772980483927",
-              "title": "文件快递柜",
-              "href": "https://share.lanol.cn",
-              "description": "开箱即用的文件快传系统",
-              "icon": "/assets/img_1772980608552.png",
-              "enabled": true
-            },
-            {
-              "id": "1772980542397",
-              "title": "私密的文件共享",
-              "href": "https://wormhole.app",
-              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
-              "icon": "/assets/favicon_1772980546856.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "8760f4f8-ed38-4560-a97f-2b9a91984264",
           "title": "🌏 网络相关",
           "icon": "FolderOpen",
@@ -513,6 +440,79 @@
               "href": "https://ippure.com",
               "description": "致力打造最专业、易用的 IP 纯净度检测平台；助力跨境电商、流媒体、AI 大模型及网络爬虫用户的数字化旅程。",
               "icon": "/assets/favicon_1772980053013.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "58241caa-f9e2-4698-81b6-1bdae21c88a2",
+          "title": "🌏网络通信",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "10c26402-b55e-4c0a-a6c5-facd76deee3b",
+          "title": "✏️ 文本工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1772980213444",
+              "title": "Google 翻译",
+              "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+              "icon": "/assets/favicon_1772980217446.ico",
+              "enabled": true
+            },
+            {
+              "id": "1772980230210",
+              "title": "OCR文字识别",
+              "href": "https://uutool.cn/ocr",
+              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+              "icon": "/assets/favicon_1772980235349.png",
+              "enabled": true
+            },
+            {
+              "id": "1772980293145",
+              "title": "二维码识别",
+              "href": "https://uutool.cn/qrcode-decode",
+              "description": "二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
+              "icon": "/assets/favicon_1772980304794.png",
+              "enabled": true
+            },
+            {
+              "id": "1772980369294",
+              "title": "PDFCraft - 专业 PDF 工具",
+              "href": "https://pdfcraft.devtoolcafe.com/zh",
+              "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
+              "icon": "/assets/favicon_1772980374238.svg",
+              "enabled": true
+            },
+            {
+              "id": "1772980411105",
+              "title": "BentoPDF -  PDF 工具",
+              "href": "https://www.bentopdf.com/index.html",
+              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
+              "icon": "/assets/favicon_1772980422090.svg",
+              "enabled": true
+            },
+            {
+              "id": "1772980483927",
+              "title": "文件快递柜",
+              "href": "https://share.lanol.cn",
+              "description": "开箱即用的文件快传系统",
+              "icon": "/assets/img_1772980608552.png",
+              "enabled": true
+            },
+            {
+              "id": "1772980542397",
+              "title": "私密的文件共享",
+              "href": "https://wormhole.app",
+              "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1772980546856.png",
               "enabled": true
             }
           ]
