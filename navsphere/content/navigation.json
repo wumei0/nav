@@ -154,6 +154,14 @@
           "description": "Google 新一代生成式 AI 助理（generative AI assistant）的核心使用页面，取代了之前的 Bard",
           "icon": "/assets/favicon_1772962983349.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772963282829_2n355wes0",
+          "title": "Microsoft Copilot",
+          "href": "https://copilot.microsoft.com",
+          "description": "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+          "icon": "/assets/favicon_1772963210687.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
