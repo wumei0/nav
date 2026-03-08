@@ -188,7 +188,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d2a2488e-2f3f-4e2e-a9e4-7c0cc39b250d",
+          "title": "电子钱包",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
