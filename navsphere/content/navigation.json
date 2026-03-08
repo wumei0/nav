@@ -376,6 +376,14 @@
               "description": "最简单快捷的视频下载工具，即可免费下载任何在线视频。无需注册，无限下载！只需输入网址即可开始下载。",
               "icon": "/assets/favicon_1772977059668.png",
               "enabled": true
+            },
+            {
+              "id": "1772977132949",
+              "title": "微信视频下载",
+              "href": "https://www.15um.com/tools/weixin_v.php",
+              "description": "微信视频在线下载, 公众号视频在线下载, 微信公众号视频批量下载",
+              "icon": "/assets/favicon_1772977138533.ico",
+              "enabled": true
             }
           ]
         }
