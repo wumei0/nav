@@ -88,7 +88,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "8bfbd080-bc95-4c5c-9aa7-99e78f56edeb",
+          "title": "我的项目",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1772959946862",
