@@ -409,6 +409,14 @@
               "description": "LocalSend 是一款免费、开源、跨平台的文件共享工具，可让您将文件共享到附近的设备。",
               "icon": "/assets/favicon_1772993095784.ico",
               "enabled": true
+            },
+            {
+              "id": "1772993137994",
+              "title": "TG汉化中文",
+              "href": "https://t.me/setlanguage/classic-zh-cn",
+              "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
+              "icon": "/assets/favicon_1772993149045.svg",
+              "enabled": true
             }
           ]
         },
