@@ -305,7 +305,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "666dc310-bed0-4ba7-81b9-b288dc4788c8",
+          "title": "🔐 云盘存储",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
