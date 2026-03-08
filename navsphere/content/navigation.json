@@ -204,6 +204,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8e5cebe5-7a31-40ce-a238-d047e0588400",
+          "title": "股票证券",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
