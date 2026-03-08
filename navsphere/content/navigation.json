@@ -384,6 +384,14 @@
               "description": "专门用于检测IP地址质量的在线工具，用户可以输入IP来分析其基本信息、运营商归属、代理情况、黑名单状态等，常用于跨境电商、海外社交平台引流和网络安全检测。",
               "icon": "/assets/favicon_1772979940561.ico",
               "enabled": true
+            },
+            {
+              "id": "1772980048651",
+              "title": "IP地址信息",
+              "href": "https://ippure.com",
+              "description": "致力打造最专业、易用的 IP 纯净度检测平台；助力跨境电商、流媒体、AI 大模型及网络爬虫用户的数字化旅程。",
+              "icon": "/assets/favicon_1772980053013.png",
+              "enabled": true
             }
           ]
         },
