@@ -384,6 +384,14 @@
               "description": "微信视频在线下载, 公众号视频在线下载, 微信公众号视频批量下载",
               "icon": "/assets/favicon_1772977138533.ico",
               "enabled": true
+            },
+            {
+              "id": "1772977206391",
+              "title": "抖音视频下载",
+              "href": "https://www.15um.com/tools/douyin.php",
+              "description": "抖音无水印视频在线下载，抖音视频下载，抖音搞笑视频下载，抖音无水印视频在线下载！",
+              "icon": "/assets/favicon_1772977211849.ico",
+              "enabled": true
             }
           ]
         }
