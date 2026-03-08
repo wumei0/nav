@@ -30,6 +30,14 @@
           "description": "Google 表格（Google Sheets） 是 Google 开发的在线电子表格应用，属于 Google Workspace（原 G Suite）的一部分。它与传统的 Excel 类似，但基于云端运行，支持多人实时协作和跨设备访问。",
           "icon": "/assets/favicon_1772958796056.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772958903639_hnnipr46z",
+          "title": "Outlook邮箱",
+          "href": "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fmail%2F0%2F&sdf=0",
+          "description": "Outlook是微软提供的免费电子邮件服务，既能满足个人通信需求，也能与微软生态系统深度整合，支持办公、云存储和跨设备同步。",
+          "icon": "/assets/favicon_1772958855813.png",
+          "enabled": true
         }
       ],
       "subCategories": []
