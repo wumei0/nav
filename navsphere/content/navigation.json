@@ -227,6 +227,14 @@
               "description": "Wirex 是全球领先的加密货币与传统货币支付平台，提供钱包、借记卡、即时兑换、收益产品和全球转账。",
               "icon": "/assets/favicon_1772993371383.png",
               "enabled": true
+            },
+            {
+              "id": "1772993402518",
+              "title": "volet.com",
+              "href": "https://account.volet.com/login",
+              "description": "安全的多币种电子钱包，支持 fiat + crypto 存取、免费 P2P 转账、买卖加密货币、虚拟/实体卡消费，以及 B2B 批量支付和商户工具。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=account.volet.com",
+              "enabled": true
             }
           ]
         },
