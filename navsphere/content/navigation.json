@@ -86,6 +86,14 @@
           "description": "在 Google 地图上查找本地商户、查看卫星地图、查询公交和驾车路线。",
           "icon": "/assets/favicon_1772959877263.ico",
           "enabled": true
+        },
+        {
+          "id": "1772966203466",
+          "title": "笔记应用",
+          "href": "https://notes.778652.xyz",
+          "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
+          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
