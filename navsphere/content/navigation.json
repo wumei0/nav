@@ -102,6 +102,14 @@
           "description": "一款基于Cloudflare Workers + KV驱动的轻量化个人笔记系统。追求宣纸感的极致阅读体验与沉浸式创作",
           "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1772966589099_k3m8jjf63",
+          "title": "极简手记",
+          "href": "https://cf-notes.xiaoyue360.workers.dev",
+          "description": "这里记录了我关于 Cloudflare 的各种配置方案、边缘计算（Workers）脚本以及网络优化的实战笔记。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cf-notes.xiaoyue360.workers.dev",
+          "enabled": true
         }
       ],
       "subCategories": [
