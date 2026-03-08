@@ -320,7 +320,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1772980213444",
+              "title": "Google 翻译",
+              "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+              "icon": "/assets/favicon_1772980217446.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8760f4f8-ed38-4560-a97f-2b9a91984264",
