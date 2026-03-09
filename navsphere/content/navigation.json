@@ -489,6 +489,14 @@
               "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
               "icon": "/assets/favicon_1772993149045.svg",
               "enabled": true
+            },
+            {
+              "id": "1773072907147",
+              "title": "Proton 邮箱",
+              "href": "https://account.proton.me/zh-cn/mail/signup",
+              "description": "一家总部位于瑞士的安全电子邮件服务，为用户创建提供新邮箱账户的入口，强调隐私保护页面与端到端加密。",
+              "icon": "/assets/favicon_1773072913392.ico",
+              "enabled": true
             }
           ]
         },
