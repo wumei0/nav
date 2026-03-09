@@ -481,6 +481,14 @@
               "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
               "icon": "/assets/favicon_1772993149045.svg",
               "enabled": true
+            },
+            {
+              "id": "1773072688780",
+              "title": "教育邮箱--圣达菲学院",
+              "href": "https://www.sfcollege.edu/esantafe",
+              "description": "一所位于美国佛罗里达州盖恩斯维尔的公立社区学院，以高学历、丰富的专业选择和良好的转学途径而闻名。它是佛罗里达州社区学院体系的一部分，提供副天主教、天主教以及职业技术培训。",
+              "icon": "/assets/favicon_1773072709890.png",
+              "enabled": true
             }
           ]
         },
