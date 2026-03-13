@@ -821,6 +821,14 @@
               "description": "无需注册，即可轻松记笔记和写博客。几秒钟即可创建您自己的在线笔记本。",
               "icon": "/assets/favicon_1772979039965.png",
               "enabled": true
+            },
+            {
+              "id": "site_1773378221907_6blow31pl",
+              "title": "Freepik 图标",
+              "href": "https://www.freepik.com/",
+              "description": "你只需要这一个创意套件——AI 工具、智能功能和高质量的素材库，即可在 Freepik 上进行设计和创作。",
+              "icon": "/assets/favicon_1773378122795.png",
+              "enabled": true
             }
           ]
         }
