@@ -100,7 +100,7 @@
           "title": "工作台",
           "href": "https://note.xiaoyue360.workers.dev",
           "description": "一款基于Cloudflare Workers + KV驱动的轻量化个人笔记系统。追求宣纸感的极致阅读体验与沉浸式创作",
-          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
+          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/notepad-color-icon.svg",
           "enabled": true
         },
         {
