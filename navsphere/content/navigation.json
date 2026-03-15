@@ -846,7 +846,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1773593349661",
+              "title": "GitHub 全球加速",
+              "href": "https://ghspeedup.com/?ref=kms.cx",
+              "description": "ghspeedup.com 是一个免费的 GitHub 加速工具，为开发者提供高速、稳定的 GitHub 仓库克隆、文件下载、Release 和源码包加速服务，解决 github.com 访问慢、下载失败的问题。",
+              "icon": "https://ghspeedup.com/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
