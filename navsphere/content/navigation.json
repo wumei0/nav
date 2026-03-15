@@ -209,6 +209,14 @@
           "description": "Grok 是由 xAI 开发的免费 AI 助手，旨在最大限度地提高准确性和客观性。Grok 提供实时搜索、图像生成、趋势分析等功能。",
           "icon": "/assets/favicon_1772963377293.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773582029795_wac8iez5m",
+          "title": "DeepSeek",
+          "href": "https://chat.deepseek.com/sign_in",
+          "description": "DeepSeek是目前全球 AI 领域最受关注的中国大模型公司之一。它由头部量化私募机构幻方量化于 2023 年创立，总部位于杭州。",
+          "icon": "/assets/favicon_1773581870847.png",
+          "enabled": true
         }
       ],
       "subCategories": []
