@@ -839,6 +839,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a6632b7b-cd5f-401c-af1f-18e7799088aa",
+          "title": "💻 电脑软件",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
