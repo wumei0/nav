@@ -897,6 +897,14 @@
           "description": "国家税务总局在广西的权威门户，提供纳税人办税指南、政策法规、税收数据、发票查询及12366纳税服务等功能。它是企业和个人办理税务业务、获取最新税收政策的重要平台。",
           "icon": "/assets/img_1773814614699.png",
           "enabled": true
+        },
+        {
+          "id": "1773814862610",
+          "title": "广西电子税务局",
+          "href": "https://etax.guangxi.chinatax.gov.cn:8443",
+          "description": "国家税务总局广西壮族自治区税务局提供的网上办税平台，纳税人可以通过该系统实现“网上办税不见面”，完成各类涉税业务的申报、缴纳和查询。它是广西地区企业和个人纳税人办理税务业务的主要入口。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=etax.guangxi.chinatax.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
