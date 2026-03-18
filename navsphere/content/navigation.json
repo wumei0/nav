@@ -858,6 +858,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1773813499180",
+      "title": "企业工具",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
