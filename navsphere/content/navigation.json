@@ -889,6 +889,14 @@
           "description": "国家知识产权局提供的官方平台，主要用于商标申请、查询、缴费及相关业务办理。是企业和个人进行商标注册与管理的唯一权威入口。",
           "icon": "/assets/img_1773814293274.png",
           "enabled": true
+        },
+        {
+          "id": "1773814598507",
+          "title": "广西壮族自治区税务局",
+          "href": "https://guangxi.chinatax.gov.cn",
+          "description": "国家税务总局在广西的权威门户，提供纳税人办税指南、政策法规、税收数据、发票查询及12366纳税服务等功能。它是企业和个人办理税务业务、获取最新税收政策的重要平台。",
+          "icon": "/assets/img_1773814614699.png",
+          "enabled": true
         }
       ],
       "subCategories": []
