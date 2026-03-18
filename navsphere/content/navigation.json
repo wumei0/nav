@@ -881,6 +881,14 @@
           "description": "工业和信息化部ICP/IP地址/域名信息备案管理系统，是中国企业和个人网站必须使用的备案平台，用于履行互联网信息服务的备案义务。",
           "icon": "/assets/img_1773814169343.png",
           "enabled": true
+        },
+        {
+          "id": "1773814284855",
+          "title": "商标查询",
+          "href": "https://wcjs.sbj.cnipa.gov.cn/home",
+          "description": "国家知识产权局提供的官方平台，主要用于商标申请、查询、缴费及相关业务办理。是企业和个人进行商标注册与管理的唯一权威入口。",
+          "icon": "/assets/img_1773814293274.png",
+          "enabled": true
         }
       ],
       "subCategories": []
