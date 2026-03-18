@@ -871,7 +871,7 @@
           "title": "企业信用信息",
           "href": "https://www.gsxt.gov.cn/index.html",
           "description": "国家企业信用信息公示系统（GSXT）是中国官方统一的企业信用信息查询平台，提供企业注册、经营异常、严重违法失信名单等信息的公开服务。它是社会公众、企业和政府部门获取企业信用状况的重要渠道。",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gsxt.gov.cn",
+          "icon": "/assets/img_1773814147482.png",
           "enabled": true
         },
         {
