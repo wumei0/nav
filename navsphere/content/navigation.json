@@ -88,6 +88,14 @@
           "enabled": true
         },
         {
+          "id": "1772980213444",
+          "title": "Google 翻译",
+          "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+          "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+          "icon": "/assets/favicon_1772980217446.ico",
+          "enabled": true
+        },
+        {
           "id": "1772966203466",
           "title": "笔记应用",
           "href": "https://notes.778652.xyz",
@@ -165,14 +173,6 @@
           "href": "https://family-tree.xiaoyue360.workers.dev",
           "description": "家族内部传阅，切勿外泄。",
           "icon": "/assets/img_1773378016371.png",
-          "enabled": true
-        },
-        {
-          "id": "1772980213444",
-          "title": "Google 翻译",
-          "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
-          "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
-          "icon": "/assets/favicon_1772980217446.ico",
           "enabled": true
         }
       ],
