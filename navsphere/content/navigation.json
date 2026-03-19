@@ -160,14 +160,6 @@
           "enabled": true
         },
         {
-          "id": "site_1772959169285_r8gwhrvez",
-          "title": "GitHub",
-          "href": "https://github.com",
-          "description": "全球应用最广泛的人工智能驱动型开发者平台，数百万开发者、企业和最大的开源社区在这里构建推动人类进步的软件。",
-          "icon": "https://favicon.is/github.com",
-          "enabled": true
-        },
-        {
           "id": "site_1772959228956_nvu6wpksk",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com",
@@ -193,7 +185,16 @@
       "icon": "Box",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1772959169285_r8gwhrvez",
+          "title": "GitHub",
+          "href": "https://github.com",
+          "description": "全球应用最广泛的人工智能驱动型开发者平台，数百万开发者、企业和最大的开源社区在这里构建推动人类进步的软件。",
+          "icon": "https://favicon.is/github.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
