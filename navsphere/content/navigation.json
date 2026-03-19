@@ -513,6 +513,14 @@
               "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
               "icon": "/assets/favicon_1772993149045.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1773898762188_xr5y52991",
+              "title": "ToffeeShare",
+              "href": "https://toffeeshare.com/",
+              "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
+              "icon": "/assets/favicon_1773898611082.png",
+              "enabled": true
             }
           ]
         },
