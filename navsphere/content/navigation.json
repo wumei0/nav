@@ -188,6 +188,15 @@
       ]
     },
     {
+      "id": "1773904730013",
+      "title": "开发者工具",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1772959946862",
       "title": "AI工具包",
       "icon": "Brain",
@@ -957,15 +966,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1773904730013",
-      "title": "开发者工具",
-      "icon": "Box",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
