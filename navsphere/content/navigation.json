@@ -158,14 +158,6 @@
           "description": "基于 Cloudflare 的订阅转换和管理工具",
           "icon": "/assets/favicon_1772966666342.svg",
           "enabled": true
-        },
-        {
-          "id": "site_1772959228956_nvu6wpksk",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com",
-          "description": "Cloudflare 是一家总部位于美国旧金山的跨国科技公司，主要提供网站加速与网络安全服务，被称为全球最大的边缘网络之一。它的使命是“帮助构建更好的互联网”。",
-          "icon": "/assets/favicon_1772959188051.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -192,6 +184,14 @@
           "href": "https://github.com",
           "description": "全球应用最广泛的人工智能驱动型开发者平台，数百万开发者、企业和最大的开源社区在这里构建推动人类进步的软件。",
           "icon": "https://favicon.is/github.com",
+          "enabled": true
+        },
+        {
+          "id": "site_1772959228956_nvu6wpksk",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com",
+          "description": "Cloudflare 是一家总部位于美国旧金山的跨国科技公司，主要提供网站加速与网络安全服务，被称为全球最大的边缘网络之一。它的使命是“帮助构建更好的互联网”。",
+          "icon": "/assets/favicon_1772959188051.png",
           "enabled": true
         }
       ],
