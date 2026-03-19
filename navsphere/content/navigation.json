@@ -217,6 +217,14 @@
           "description": "DeepSeek是目前全球 AI 领域最受关注的中国大模型公司之一。它由头部量化私募机构幻方量化于 2023 年创立，总部位于杭州。",
           "icon": "/assets/favicon_1773581870847.png",
           "enabled": true
+        },
+        {
+          "id": "1773897971953",
+          "title": "豆包",
+          "href": "https://www.doubao.com/chat",
+          "description": "豆包是一个上手简单、功能全面且极具亲和力的 AI 工具。无论你是需要一个高效率的生产力工具，还是一个随叫随到的知识百科，豆包都是目前国内非常值得尝试的 AI 产品。",
+          "icon": "/assets/favicon_1773897978061.png",
+          "enabled": true
         }
       ],
       "subCategories": []
