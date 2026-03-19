@@ -493,14 +493,6 @@
               "enabled": true
             },
             {
-              "id": "1773012375918",
-              "title": "Microsoft Office Mac 工具",
-              "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
-              "description": "适用于 macOS 的 Microsoft Office 安装程序",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/1/19/20190920145105%21Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
-              "enabled": true
-            },
-            {
               "id": "1773072688780",
               "title": "教育邮箱--圣达菲学院",
               "href": "https://www.sfcollege.edu/esantafe",
@@ -863,6 +855,14 @@
               "href": "https://ghspeedup.com/?ref=kms.cx",
               "description": "为开发者提供高速、稳定的 GitHub 仓库克隆、文件下载、Release 和源码包加速服务，解决 github.com 访问慢、下载失败的问题。",
               "icon": "https://favicon.is/github.com",
+              "enabled": true
+            },
+            {
+              "id": "1773012375918",
+              "title": "Microsoft Office Mac 工具",
+              "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
+              "description": "适用于 macOS 的 Microsoft Office 安装程序",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/1/19/20190920145105%21Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
               "enabled": true
             }
           ]
