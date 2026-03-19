@@ -888,7 +888,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1773899232928",
+              "title": "沉浸式翻译",
+              "href": "https://immersivetranslate.com/zh-Hans/download",
+              "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。",
+              "icon": "/assets/favicon_1773899237445.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
