@@ -483,14 +483,6 @@
               "enabled": true
             },
             {
-              "id": "1772993092275",
-              "title": "局域网 传输",
-              "href": "https://localsend.org",
-              "description": "LocalSend 是一款免费、开源、跨平台的文件共享工具，可让您将文件共享到附近的设备。",
-              "icon": "/assets/favicon_1772993095784.ico",
-              "enabled": true
-            },
-            {
               "id": "1772993137994",
               "title": "TG汉化中文",
               "href": "https://t.me/setlanguage/classic-zh-cn",
@@ -878,6 +870,14 @@
               "href": "https://wormhole.app",
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1772980546856.png",
+              "enabled": true
+            },
+            {
+              "id": "1772993092275",
+              "title": "局域网 传输",
+              "href": "https://localsend.org",
+              "description": "LocalSend 是一款免费、开源、跨平台的文件共享工具，可让您将文件共享到附近的设备。",
+              "icon": "/assets/favicon_1772993095784.ico",
               "enabled": true
             }
           ]
