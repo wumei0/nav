@@ -56,14 +56,6 @@
           "enabled": true
         },
         {
-          "id": "site_1772959169285_r8gwhrvez",
-          "title": "GitHub",
-          "href": "https://github.com",
-          "description": "全球应用最广泛的人工智能驱动型开发者平台，数百万开发者、企业和最大的开源社区在这里构建推动人类进步的软件。",
-          "icon": "https://favicon.is/github.com",
-          "enabled": true
-        },
-        {
           "id": "site_1772959228956_nvu6wpksk",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com",
@@ -173,6 +165,14 @@
           "href": "https://family-tree.xiaoyue360.workers.dev",
           "description": "家族内部传阅，切勿外泄。",
           "icon": "/assets/img_1773378016371.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1772959169285_r8gwhrvez",
+          "title": "GitHub",
+          "href": "https://github.com",
+          "description": "全球应用最广泛的人工智能驱动型开发者平台，数百万开发者、企业和最大的开源社区在这里构建推动人类进步的软件。",
+          "icon": "https://favicon.is/github.com",
           "enabled": true
         }
       ],
