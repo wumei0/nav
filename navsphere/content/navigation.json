@@ -483,14 +483,6 @@
               "enabled": true
             },
             {
-              "id": "1772980483927",
-              "title": "文件快递柜",
-              "href": "https://share.lanol.cn",
-              "description": "开箱即用的文件快传系统",
-              "icon": "/assets/img_1772980608552.png",
-              "enabled": true
-            },
-            {
               "id": "1772980542397",
               "title": "私密的文件共享",
               "href": "https://wormhole.app",
@@ -878,6 +870,14 @@
               "href": "https://toffeeshare.com/",
               "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
               "icon": "/assets/favicon_1773898611082.png",
+              "enabled": true
+            },
+            {
+              "id": "1772980483927",
+              "title": "文件快递柜",
+              "href": "https://share.lanol.cn",
+              "description": "开箱即用的文件快传系统",
+              "icon": "/assets/img_1772980608552.png",
               "enabled": true
             }
           ]
