@@ -201,6 +201,14 @@
           "description": "由微软（Microsoft）开发的一款免费、开源且跨平台的代码编辑器。它目前是全球范围内最受开发者欢迎的开发工具之一。",
           "icon": "/assets/favicon_1773904869625.ico",
           "enabled": true
+        },
+        {
+          "id": "1772981885725",
+          "title": "域名管理",
+          "href": "https://www.spaceship.com",
+          "description": "一家新兴的域名注册与云服务平台，提供低价域名、网站托管、企业邮箱以及AI辅助建站工具，主打“快速、简单、安全”的一站式数字化解决方案。",
+          "icon": "/assets/favicon_1772981916881.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -547,14 +555,6 @@
               "href": "https://www.giffgaff.com",
               "description": "giffgaff 电话卡是一种灵活、低成本、无合约的英国 SIM 卡，适合旅游、留学和长期居住用户。",
               "icon": "/assets/favicon_1772981343247.png",
-              "enabled": true
-            },
-            {
-              "id": "1772981885725",
-              "title": "域名管理",
-              "href": "https://www.spaceship.com",
-              "description": "一家新兴的域名注册与云服务平台，提供低价域名、网站托管、企业邮箱以及AI辅助建站工具，主打“快速、简单、安全”的一站式数字化解决方案。",
-              "icon": "/assets/favicon_1772981916881.svg",
               "enabled": true
             }
           ]
