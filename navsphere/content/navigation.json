@@ -267,6 +267,14 @@
           "description": "一个专为前端开发者打造的 云端部署与托管平台，由 Next.js 的创始团队开发。它以“极致的开发者体验”著称，是目前全球最受欢迎的现代 Web 应用发布平台之一。",
           "icon": "https://www.faviconextractor.com/favicon/vercel.com?larger=true",
           "enabled": true
+        },
+        {
+          "id": "1773936540712",
+          "title": "代码编辑器",
+          "href": "https://www.sublimetext.com",
+          "description": "一款功能强大的文本编辑器，可用于编辑代码、标记语言和散文。",
+          "icon": "/assets/favicon_1773936545827.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
