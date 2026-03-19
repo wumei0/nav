@@ -209,6 +209,14 @@
           "description": "一家新兴的域名注册与云服务平台，提供低价域名、网站托管、企业邮箱以及AI辅助建站工具，主打“快速、简单、安全”的一站式数字化解决方案。",
           "icon": "/assets/favicon_1772981916881.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1773905335310_3bwixru5n",
+          "title": "Vercel",
+          "href": "https://vercel.com",
+          "description": "一个专为前端开发者打造的 云端部署与托管平台，由 Next.js 的创始团队开发。它以“极致的开发者体验”著称，是目前全球最受欢迎的现代 Web 应用发布平台之一。",
+          "icon": "/assets/favicon_1773905307955.png",
+          "enabled": true
         }
       ],
       "subCategories": []
