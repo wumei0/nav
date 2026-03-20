@@ -539,6 +539,14 @@
               "description": "为开发者提供高速、稳定的 GitHub 仓库克隆、文件下载、Release 和源码包加速服务，解决 github.com 访问慢、下载失败的问题。",
               "icon": "https://favicon.is/github.com",
               "enabled": true
+            },
+            {
+              "id": "1773899232928",
+              "title": "沉浸式翻译",
+              "href": "https://immersivetranslate.com/zh-Hans/download",
+              "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。",
+              "icon": "/assets/favicon_1773899237445.png",
+              "enabled": true
             }
           ]
         },
@@ -921,16 +929,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1773899232928",
-              "title": "沉浸式翻译",
-              "href": "https://immersivetranslate.com/zh-Hans/download",
-              "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。",
-              "icon": "/assets/favicon_1773899237445.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
