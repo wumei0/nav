@@ -531,6 +531,14 @@
               "description": "适用于 macOS 的 Microsoft Office 安装程序",
               "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/1/19/20190920145105%21Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
               "enabled": true
+            },
+            {
+              "id": "1773593349661",
+              "title": "GitHub 全球加速",
+              "href": "https://ghspeedup.com/?ref=kms.cx",
+              "description": "为开发者提供高速、稳定的 GitHub 仓库克隆、文件下载、Release 和源码包加速服务，解决 github.com 访问慢、下载失败的问题。",
+              "icon": "https://favicon.is/github.com",
+              "enabled": true
             }
           ]
         },
@@ -864,16 +872,7 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1773593349661",
-              "title": "GitHub 全球加速",
-              "href": "https://ghspeedup.com/?ref=kms.cx",
-              "description": "为开发者提供高速、稳定的 GitHub 仓库克隆、文件下载、Release 和源码包加速服务，解决 github.com 访问慢、下载失败的问题。",
-              "icon": "https://favicon.is/github.com",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "92b43b42-7cea-4915-9c3b-850a7312a5b9",
