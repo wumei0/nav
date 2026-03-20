@@ -928,7 +928,7 @@
           "title": "🌐  浏览器插件",
           "icon": "FolderOpen",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         }
       ]
