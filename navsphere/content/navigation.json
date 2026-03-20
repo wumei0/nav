@@ -875,14 +875,6 @@
           ]
         },
         {
-          "id": "a6632b7b-cd5f-401c-af1f-18e7799088aa",
-          "title": "💻 电脑软件",
-          "icon": "Folder",
-          "description": "",
-          "enabled": false,
-          "items": []
-        },
-        {
           "id": "92b43b42-7cea-4915-9c3b-850a7312a5b9",
           "title": "🚀  文件传输",
           "icon": "FolderOpen",
@@ -922,6 +914,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a6632b7b-cd5f-401c-af1f-18e7799088aa",
+          "title": "💻 电脑软件",
+          "icon": "Folder",
+          "description": "",
+          "enabled": false,
+          "items": []
         },
         {
           "id": "f3ec5a83-7b95-478e-a5d0-f31dcb9ba97f",
