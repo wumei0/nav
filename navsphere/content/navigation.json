@@ -172,7 +172,7 @@
           "title": "360书签",
           "href": "https://dh.xiaoyue360.workers.dev",
           "description": "一个极其简洁、优雅、可编辑、基于Cloudflare Workers的个人导航站，适合打造属于你自己的“云端启动台”",
-          "icon": "https://dh.xiaoyue360.workers.dev/data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>",
+          "icon": "/assets/img_1774701612563.png",
           "enabled": true
         }
       ],
