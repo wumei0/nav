@@ -158,6 +158,14 @@
           "description": "基于 Cloudflare 的订阅转换和管理工具",
           "icon": "/assets/favicon_1772966666342.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1774700140473_ph3vcrfp5",
+          "title": "365书签",
+          "href": "https://dh.meiyue365.workers.dev",
+          "description": "一个极其简洁、优雅、可编辑、基于Cloudflare Workers的个人导航站，适合打造属于你自己的“云端启动台”",
+          "icon": "https://dh.meiyue365.workers.dev/data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>",
+          "enabled": true
         }
       ],
       "subCategories": [
