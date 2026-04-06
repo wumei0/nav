@@ -677,6 +677,14 @@
               "description": "致力打造最专业、易用的 IP 纯净度检测平台；助力跨境电商、流媒体、AI 大模型及网络爬虫用户的数字化旅程。",
               "icon": "/assets/favicon_1772980053013.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775468310913_tapxqh9fy",
+              "title": "IP 信息详情",
+              "href": "https://ip.ssss.nyc.mn/",
+              "description": "一个轻量、免费的在线 IP 地址查询工具，打开即可自动获取并展示当前设备公网 IP 及相关网络信息，界面简洁、无需注册登录",
+              "icon": "https://nav.778652.xyz/assets/favicon_1772980053013.png",
+              "enabled": true
             }
           ]
         },
