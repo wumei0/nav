@@ -903,6 +903,14 @@
               "description": "无需注册，即可轻松记笔记和写博客。几秒钟即可创建您自己的在线笔记本。",
               "icon": "/assets/favicon_1772979039965.png",
               "enabled": true
+            },
+            {
+              "id": "site_1775524620759_e9l63rsuq",
+              "title": "易截图Pro",
+              "href": "https://1jietu.pro",
+              "description": "易截图Pro，做最专业的截图工具，支持截图、编辑、分享、保存等多种功能。",
+              "icon": "/assets/favicon_1775524611216.ico",
+              "enabled": true
             }
           ]
         },
