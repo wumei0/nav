@@ -919,6 +919,14 @@
               "description": "易截图Pro，做最专业的截图工具，支持截图、编辑、分享、保存等多种功能。",
               "icon": "/assets/img_1775526611366.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780202451223_wlzlhloet",
+              "title": "多国地址生成器",
+              "href": "https://duoguodizhi.com/",
+              "description": "多国虚拟身份与地址信息生成工具。它主要用于帮助跨境电商卖家、海外网络营销人员（如跨境投放、测评、养号人员）、软件开发者或海外网站注册用户，快速生成合规格式的海外本土化虚拟身份、地址以及相关周边信息。",
+              "icon": "/assets/favicon_1780202368215.svg",
+              "enabled": true
             }
           ]
         },
