@@ -563,6 +563,14 @@
               "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。",
               "icon": "/assets/favicon_1773899237445.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780202070388_u2k1mcmfk",
+              "title": "PDFCraft",
+              "href": "https://pdfcraft.devtoolcafe.com/zh/",
+              "description": "免费、私密、基于浏览器。在线合并、编辑 PDF 文件，无需上传到服务器。",
+              "icon": "/assets/favicon_1780202043964.svg",
+              "enabled": true
             }
           ]
         },
