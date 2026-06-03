@@ -20,7 +20,7 @@
           "title": "Gmail邮箱",
           "href": "https://mail.google.com/mail/u/0/#inbox",
           "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
-          "icon": "/assets/favicon_1772958754906.png",
+          "icon": "https://images.eallion.com/directus/files/7f40a208-6943-467b-94ea-be4cdef2b06c.svg",
           "enabled": true
         },
         {
