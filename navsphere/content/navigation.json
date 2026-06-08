@@ -285,19 +285,19 @@
           "enabled": true
         },
         {
-          "id": "site_1773904933554_wulm1ol8o",
-          "title": "VS Code",
-          "href": "https://code.visualstudio.com/",
-          "description": "由微软（Microsoft）开发的一款免费、开源且跨平台的代码编辑器。它目前是全球范围内最受开发者欢迎的开发工具之一。",
-          "icon": "/assets/favicon_1773904869625.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1773905335310_3bwixru5n",
           "title": "Vercel",
           "href": "https://vercel.com",
           "description": "一个专为前端开发者打造的 云端部署与托管平台，由 Next.js 的创始团队开发。它以“极致的开发者体验”著称，是目前全球最受欢迎的现代 Web 应用发布平台之一。",
           "icon": "https://www.faviconextractor.com/favicon/vercel.com?larger=true",
+          "enabled": true
+        },
+        {
+          "id": "site_1773904933554_wulm1ol8o",
+          "title": "VS Code",
+          "href": "https://code.visualstudio.com/",
+          "description": "由微软（Microsoft）开发的一款免费、开源且跨平台的代码编辑器。它目前是全球范围内最受开发者欢迎的开发工具之一。",
+          "icon": "/assets/favicon_1773904869625.ico",
           "enabled": true
         },
         {
