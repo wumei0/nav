@@ -557,14 +557,6 @@
               "enabled": true
             },
             {
-              "id": "1772993137994",
-              "title": "TG汉化中文",
-              "href": "https://t.me/setlanguage/classic-zh-cn",
-              "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
-              "icon": "/assets/favicon_1772993149045.svg",
-              "enabled": true
-            },
-            {
               "id": "1773012375918",
               "title": "Microsoft Office Mac 工具",
               "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
