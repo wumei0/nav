@@ -492,19 +492,19 @@
               "enabled": true
             },
             {
-              "id": "1772980701515",
-              "title": "MEGA ",
-              "href": "https://mega.nz/login",
-              "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
-              "icon": "/assets/favicon_1772980714693.png",
-              "enabled": true
-            },
-            {
               "id": "1772980816720",
               "title": "InfiniCLOUD",
               "href": "https://infini-cloud.net",
               "description": "自管型全能云存储，让您的数据安全无忧。随时随地备份文件与文档，无存储限制烦恼。",
               "icon": "/assets/favicon_1772980822780.png",
+              "enabled": true
+            },
+            {
+              "id": "1772980701515",
+              "title": "MEGA ",
+              "href": "https://mega.nz/login",
+              "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
+              "icon": "/assets/favicon_1772980714693.png",
               "enabled": true
             }
           ]
