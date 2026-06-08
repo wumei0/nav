@@ -541,14 +541,6 @@
               "enabled": true
             },
             {
-              "id": "site_1780202070388_u2k1mcmfk",
-              "title": "PDFCraft",
-              "href": "https://pdfcraft.devtoolcafe.com/zh/",
-              "description": "免费、私密、基于浏览器。在线合并、编辑 PDF 文件，无需上传到服务器。",
-              "icon": "/assets/favicon_1780202043964.svg",
-              "enabled": true
-            },
-            {
               "id": "1772980411105",
               "title": "BentoPDF -  PDF 工具",
               "href": "https://www.bentopdf.com/index.html",
