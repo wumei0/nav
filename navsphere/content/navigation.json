@@ -233,6 +233,14 @@
           "description": "豆包是一个上手简单、功能全面且极具亲和力的 AI 工具。无论你是需要一个高效率的生产力工具，还是一个随叫随到的知识百科，豆包都是目前国内非常值得尝试的 AI 产品。",
           "icon": "/assets/favicon_1773897978061.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780893953623_c3hfcanj7",
+          "title": "Kimi AI",
+          "href": "https://www.kimi.com",
+          "description": "Kimi是一个聊天式AI，更是一个多功能智能平台，通过Agent集群与代码生成能力，覆盖了开发、办公、创作等多个领域。它的定位是“更懂代码、更智能的Agent”，适合个人用户与企业团队使用。",
+          "icon": "/assets/favicon_1780893906045.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
