@@ -549,14 +549,6 @@
               "enabled": true
             },
             {
-              "id": "1773072907147",
-              "title": "Proton 邮箱",
-              "href": "https://account.proton.me/zh-cn/mail/signup",
-              "description": "一家总部位于瑞士的安全电子邮件服务，为用户创建提供新邮箱账户的入口，强调隐私保护页面与端到端加密。",
-              "icon": "/assets/favicon_1773072913392.ico",
-              "enabled": true
-            },
-            {
               "id": "1773012375918",
               "title": "Microsoft Office Mac 工具",
               "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
@@ -578,6 +570,14 @@
               "href": "https://www.sfcollege.edu/esantafe",
               "description": "一所位于美国佛罗里达州盖恩斯维尔的公立社区学院，以高学历、丰富的专业选择和良好的转学途径而闻名。它是佛罗里达州社区学院体系的一部分，提供副天主教、天主教以及职业技术培训。",
               "icon": "/assets/favicon_1773072709890.png",
+              "enabled": true
+            },
+            {
+              "id": "1773072907147",
+              "title": "Proton 邮箱",
+              "href": "https://account.proton.me/zh-cn/mail/signup",
+              "description": "一家总部位于瑞士的安全电子邮件服务，为用户创建提供新邮箱账户的入口，强调隐私保护页面与端到端加密。",
+              "icon": "/assets/favicon_1773072913392.ico",
               "enabled": true
             }
           ]
