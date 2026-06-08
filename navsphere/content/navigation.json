@@ -241,6 +241,14 @@
           "description": "Kimi是一个聊天式AI，更是一个多功能智能平台，通过Agent集群与代码生成能力，覆盖了开发、办公、创作等多个领域。它的定位是“更懂代码、更智能的Agent”，适合个人用户与企业团队使用。",
           "icon": "/assets/favicon_1780893906045.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1780894179943_0gfply35q",
+          "title": "ChatGPT",
+          "href": "https://chatgpt.com",
+          "description": "ChatGPT是由OpenAI推出的人工智能对话平台，核心定位是“通用型AI助手”，支持自然语言交互、知识问答、创意写作、编程辅助等多个场景。",
+          "icon": "/assets/favicon_1780894153717.png",
+          "enabled": true
         }
       ],
       "subCategories": []
