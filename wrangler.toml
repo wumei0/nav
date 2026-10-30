@@ -8,6 +8,5 @@ GITHUB_CLIENT_ID = "Ov23lir8PJutmtZEF5dc"
 GITHUB_OWNER = "wumei0"
 GITHUB_REPO = "nav"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.778652.xyz/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.778652.xyz"
-
+NEXTAUTH_URL = "https://nav-d05.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://nav-d05.pages.dev"
