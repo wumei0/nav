@@ -9,8 +9,3 @@ GITHUB_OWNER="天涯巷"
 GITHUB_REPO="NavSphere"
 GITHUB_BRANCH="main"
 NEXT_PUBLIC_API_URL="https://nav.778652.xyz"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "导航球数据库"
-database_id = "8f5a6921-51a5-4cf4-8a32-ca867c62f59e"
