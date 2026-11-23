@@ -5,7 +5,7 @@
     "keywords": "设计导航,设计资源,设计工具,设计素材,设计教程"
   },
   "appearance": {
-    "logo": "/assets/images/alogo.webp",
+    "logo": "https://github.com/images/modules/dashboard/onboarding/github-desktop.svg",
     "favicon": "/assets/images/favicon.webp",
     "theme": "system"
   },
