@@ -1,13 +1,16 @@
-name = "navsphere"
-compatibility_date = "2024-11-11"
+name="导航球"
+compatibility_date="2024-11-11"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = ".vercel/output/static"
+pages_build_output_dir=".vercel/output/static"
 
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
-GITHUB_REPO = "NavSphere"
-GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.newkit.site/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.newkit.site"
+GITHUB_CLIENT_ID="Ov231ig3bTXpZHrPO1c8"
+GITHUB_OWNER="天涯巷"
+GITHUB_REPO="NavSphere"
+GITHUB_BRANCH="main"
+NEXT_PUBLIC_API_URL="https://nav.778652.xyz"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "导航球数据库"
+database_id = "8f5a6921-51a5-4cf4-8a32-ca867c62f59e"
