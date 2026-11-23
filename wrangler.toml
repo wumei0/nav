@@ -1,4 +1,10 @@
-name="导航球"
-compatibility_date="2024-11-11"
-compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir=".vercel/output/static"
+AUTH_SECRET=8f5a6921-51a5-4cf4-8a32-ca867c62f59e
+AUTH_URL=https://nav.778652.xyz
+AUTH_TRUST_HOST=true
+AUTH_GITHUB_ID=Ov231ig3bTXpZHrPO1c8
+AUTH_GITHUB_SECRET=你的GitHub OAuth Secret
+GITHUB_CLIENT_ID=Ov231ig3bTXpZHrPO1c8
+GITHUB_OWNER=天涯巷
+GITHUB_REPO=NavSphere
+GITHUB_BRANCH=main
+NEXT_PUBLIC_API_URL=https://nav.778652.xyz
