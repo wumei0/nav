@@ -2,10 +2,3 @@ name="导航球"
 compatibility_date="2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir=".vercel/output/static"
-
-[env.production.vars]
-GITHUB_CLIENT_ID="Ov231ig3bTXpZHrPO1c8"
-GITHUB_OWNER="天涯巷"
-GITHUB_REPO="NavSphere"
-GITHUB_BRANCH="main"
-NEXT_PUBLIC_API_URL="https://nav.778652.xyz"
