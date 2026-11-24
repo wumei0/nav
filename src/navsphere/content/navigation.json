@@ -185,11 +185,12 @@
         },
         {
           "id": "item-1765687115114",
-          "enabled": true,
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
+          "title": "莫氏族谱",
+          "href": "https://family-tree.meiyue365.workers.dev",
+          "description": "家族内部传阅，切勿外泄。",
+          "icon": "/assets/img_1795493725806.png",
+          "useDefaultIcon": false,
+          "enabled": true
         },
         {
           "id": "1768145641850",
