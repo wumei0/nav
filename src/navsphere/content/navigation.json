@@ -37,7 +37,7 @@
           "title": "Outlook邮箱",
           "href": "https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fmail%2F0%2F&sdf=0",
           "description": "Outlook是微软提供的免费电子邮件服务，既能满足个人通信需求，也能与微软生态系统深度整合，支持办公、云存储和跨设备同步。",
-          "icon": "/assets/img_1795483700456.png",
+          "icon": "https://8c21dea3.nav-amc.pages.dev/assets/img_1795483700456.png",
           "useDefaultIcon": false,
           "enabled": true
         },
