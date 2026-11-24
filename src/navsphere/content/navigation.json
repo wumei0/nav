@@ -80,7 +80,7 @@
           "title": "Google 地图",
           "href": "https://www.google.com/maps",
           "description": "在 Google 地图上查找本地商户、查看卫星地图、查询公交和驾车路线。",
-          "icon": "/assets/images/logos/producthunt.webp",
+          "icon": "https://favicon.is/google.com?size=32",
           "useDefaultIcon": false,
           "enabled": true
         },
