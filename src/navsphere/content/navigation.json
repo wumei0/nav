@@ -166,6 +166,15 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "1795483540756",
+          "title": "Google 表格",
+          "href": "https://docs.google.com/spreadsheets/u/0/",
+          "description": "Google 表格（Google Sheets） 是 Google 开发的在线电子表格应用，属于 Google Workspace（原 G Suite）的一部分。它与传统的 Excel 类似，但基于云端运行，支持多人实时协作和跨设备访问。",
+          "icon": "/assets/img_1795483594709.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
