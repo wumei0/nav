@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "https://github.com/images/modules/dashboard/onboarding/github-desktop.svg",
-    "favicon": "/assets/images/favicon.webp",
+    "favicon": "https://github.com/images/modules/dashboard/onboarding/github-desktop.svg",
     "theme": "system"
   },
   "navigation": {
