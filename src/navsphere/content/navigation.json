@@ -86,10 +86,11 @@
         },
         {
           "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.webp",
+          "title": "Google 搜索",
+          "href": "https://www.google.com",
+          "description": "Google 搜索是全球使用最广泛的互联网搜索引擎，由谷歌公司开发，帮助用户快速查找网页、图片、视频、地图、新闻等多种信息。它不仅是信息检索工具，更是全球数字生态的重要入口。",
+          "icon": "https://favicon.is/google.com?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
