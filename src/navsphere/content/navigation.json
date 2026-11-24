@@ -42,6 +42,15 @@
           "enabled": true
         },
         {
+          "id": "1_1",
+          "title": "x.com",
+          "href": "https://x.com/home",
+          "description": "推特（Twitter，现更名为 X）是一家源自美国的社交网络与微博客平台，用户可以通过“推文”快速分享短消息、图片和视频，如今已成为全球最具影响力的社交媒体之一。",
+          "icon": "/assets/images/logos/analytics.webp",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -55,15 +64,6 @@
           "href": "https://dash.cloudflare.com/",
           "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
           "icon": "/assets/images/logos/cloudflar.webp",
-          "enabled": true
-        },
-        {
-          "id": "1_1",
-          "title": "x.com",
-          "href": "https://x.com/home",
-          "description": "推特（Twitter，现更名为 X）是一家源自美国的社交网络与微博客平台，用户可以通过“推文”快速分享短消息、图片和视频，如今已成为全球最具影响力的社交媒体之一。",
-          "icon": "/assets/images/logos/analytics.webp",
-          "useDefaultIcon": true,
           "enabled": true
         },
         {
