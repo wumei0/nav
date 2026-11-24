@@ -113,10 +113,11 @@
         },
         {
           "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.webp",
+          "title": "云端笔记",
+          "href": "https://note.778652.xyz",
+          "description": "一个完全在 Cloudflare Workers 上运行的自托管 Markdown 笔记本。",
+          "icon": "https://favicon.is/note.778652.xyz?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
