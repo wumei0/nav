@@ -104,10 +104,11 @@
         },
         {
           "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
+          "title": " 笔记应用",
+          "href": "https://notes.778652.xyz",
+          "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
+          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
