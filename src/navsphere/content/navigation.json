@@ -140,10 +140,11 @@
         },
         {
           "id": "1761724833829",
-          "title": "Hacker News",
-          "href": "https://news.ycombinator.com/",
-          "description": "",
-          "icon": "/assets/favicon_1761724837449.svg",
+          "title": "Sublink Worker",
+          "href": "https://sublink.778652.xyz",
+          "description": "一个轻量级的代理协议订阅转换器和管理器",
+          "icon": "https://favicon.is/sublink.778652.xyz?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
