@@ -158,10 +158,11 @@
         },
         {
           "id": "1765256323947",
-          "title": "Chrome Webstore Devconsole",
-          "href": "https://chrome.google.com/webstore/devconsole",
-          "description": "Chrome 开发者",
-          "icon": "/assets/favicon_1765256327613.webp",
+          "title": "小米舰艇",
+          "href": "https://sub.778652.xyz/login",
+          "description": "基于 Cloudflare 的订阅转换和管理工具",
+          "icon": "https://favicon.is/sub.778652.xyz?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
