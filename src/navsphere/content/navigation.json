@@ -55,8 +55,8 @@
           "title": "Dropbox",
           "href": "https://www.dropbox.com/home",
           "description": "Dropbox 是一家全球知名的云存储与文件同步服务商，成立于 2007 年，总部位于美国旧金山。它通过“云计算”技术让用户在不同设备之间轻松存储、同步和共享文件。",
-          "icon": "/assets/images/logos/gads.webp",
-          "useDefaultIcon": true,
+          "icon": "https://favicon.is/dropbox.com?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
