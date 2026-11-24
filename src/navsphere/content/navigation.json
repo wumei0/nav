@@ -52,10 +52,11 @@
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
+          "title": "Dropbox",
+          "href": "https://www.dropbox.com/home",
+          "description": "Dropbox 是一家全球知名的云存储与文件同步服务商，成立于 2007 年，总部位于美国旧金山。它通过“云计算”技术让用户在不同设备之间轻松存储、同步和共享文件。",
           "icon": "/assets/images/logos/gads.webp",
+          "useDefaultIcon": true,
           "enabled": true
         },
         {
