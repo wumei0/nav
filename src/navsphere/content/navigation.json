@@ -167,10 +167,11 @@
         },
         {
           "id": "1765279305478",
-          "title": "NewKit - 在线效率工具箱",
-          "href": "https://www.newkit.site/",
-          "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-          "icon": "/assets/favicon_1765279307988.svg",
+          "title": "365书签",
+          "href": "https://dh.meiyue365.workers.dev",
+          "description": "一个极其简洁、优雅、可编辑、基于Cloudflare Workers的个人导航站，适合打造属于你自己的“云端启动台”",
+          "icon": "/assets/img_1795493487141.png",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
