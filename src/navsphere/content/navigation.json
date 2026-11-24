@@ -122,10 +122,11 @@
         },
         {
           "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.webp",
+          "title": "工作台",
+          "href": "https://note.xiaoyue360.workers.dev",
+          "description": "一款基于Cloudflare Workers + KV驱动的轻量化个人笔记系统。追求宣纸感的极致阅读体验与沉浸式创作",
+          "icon": "/assets/img_1795488231140.png",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
