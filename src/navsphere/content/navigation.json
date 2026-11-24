@@ -107,7 +107,7 @@
           "title": " 笔记应用",
           "href": "https://notes.778652.xyz",
           "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
-          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg",
+          "icon": "/assets/img_1795489001681.png",
           "useDefaultIcon": false,
           "enabled": true
         },
