@@ -131,10 +131,11 @@
         },
         {
           "id": "1760507233911",
-          "title": "Free for Developers",
-          "href": "https://free-for.dev/#/",
-          "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-          "icon": "/assets/favicon_1760507241370.webp",
+          "title": "极简手记",
+          "href": "https://cf-notes.xiaoyue360.workers.dev",
+          "description": "这里记录了我关于 Cloudflare 的各种配置方案、边缘计算（Workers）脚本以及网络优化的实战笔记。",
+          "icon": "/assets/img_1795488451151.png",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
