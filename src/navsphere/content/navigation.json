@@ -95,10 +95,11 @@
         },
         {
           "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.webp",
+          "title": "Google 翻译",
+          "href": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+          "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+          "icon": "https://favicon.is/translate.google.com?size=32",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
