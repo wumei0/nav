@@ -273,6 +273,15 @@
           "icon": "/assets/favicon_1795744382929.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795744435796",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com",
+          "description": "ChatGPT是由OpenAI推出的人工智能对话平台，核心定位是“通用型AI助手”，支持自然语言交互、知识问答、创意写作、编程辅助等多个场景。",
+          "icon": "/assets/favicon_1795744440818.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
