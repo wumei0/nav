@@ -246,6 +246,15 @@
           "icon": "/assets/favicon_1795744235898.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795744282084",
+          "title": "deepseek",
+          "href": "https://chat.deepseek.com/sign_in",
+          "description": "DeepSeek是目前全球 AI 领域最受关注的中国大模型公司之一。它由头部量化私募机构幻方量化于 2023 年创立，总部位于杭州。",
+          "icon": "/assets/favicon_1795744286876.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
