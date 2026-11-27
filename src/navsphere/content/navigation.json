@@ -433,6 +433,15 @@
               "icon": "https://favicon.is/trade.swissquote.ch?size=32",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1795749779423",
+              "title": "iFAST Global Bank",
+              "href": "https://www.ifastgb.com/en/login",
+              "description": "iFAST Global Bank（简称 iFASTGB，奕丰环球银行）是一家总部位于英国的数字银行，隶属于新加坡上市金融科技集团 iFAST Corporation。它以“纯线上开户、零月费、支持中国大陆身份证”而受到跨境投资者和电商群体的关注。",
+              "icon": "/assets/favicon_1795749786953.ico",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
