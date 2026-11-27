@@ -303,6 +303,15 @@
           "icon": "/assets/favicon_1795747562524.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795747603880",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com",
+          "description": "Cloudflare 是一家总部位于美国旧金山的跨国科技公司，主要提供网站加速与网络安全服务，被称为全球最大的边缘网络之一。它的使命是“帮助构建更好的互联网”。",
+          "icon": "/assets/favicon_1795747607239.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
