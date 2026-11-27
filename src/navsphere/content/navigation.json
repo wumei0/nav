@@ -458,6 +458,15 @@
               "icon": "/assets/favicon_1795749196551.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1795749315406",
+              "title": "嘉信理财",
+              "href": "https://international.schwab.com",
+              "description": "了解嘉信理财如何通过低成本、在线交易工具和平台、个性化支持和投资者教育，帮助您利用美国市场。",
+              "icon": "/assets/favicon_1795749320758.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
