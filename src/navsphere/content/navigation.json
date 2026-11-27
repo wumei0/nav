@@ -433,6 +433,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "036d828f-468f-4a7a-8db2-abd0cd643bef",
+          "title": "📈 证券交易",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
