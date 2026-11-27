@@ -312,6 +312,15 @@
           "icon": "/assets/favicon_1795747607239.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795747683783",
+          "title": "Spaceship",
+          "href": "https://www.spaceship.com",
+          "description": "一家新兴的域名注册与云服务平台，提供低价域名、网站托管、企业邮箱以及AI辅助建站工具，主打“快速、简单、安全”的一站式数字化解决方案。",
+          "icon": "/assets/favicon_1795747722251.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
