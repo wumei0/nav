@@ -387,10 +387,11 @@
             },
             {
               "id": "1760611219040",
-              "title": "价值投资导航数据",
-              "href": "http://value500.com/",
-              "description": "坚守了十四年的投资数据与资讯网站",
-              "icon": "/assets/favicon_1760611256663.webp",
+              "title": "Epay易派",
+              "href": "https://www.epay.com/zh-CN",
+              "description": "易派汇款的新闻板块主要介绍跨境汇款的基础知识，全球金融市场动态，如何结汇人民币和全球的本地银行的代收发的业务场景和操作办法。",
+              "icon": "https://favicon.is/epay.com?size=32",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
