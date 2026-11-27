@@ -418,10 +418,11 @@
           "items": [
             {
               "id": "1760611489487",
-              "title": "集思录-实时数据",
-              "href": "https://www.jisilu.cn/data/cbnew/#cb",
-              "description": "集思录-实时数据",
-              "icon": "/assets/favicon_1760611535023.webp",
+              "title": "华侨银行 OCBC Bank",
+              "href": "https://www.ocbc.com/personal-banking/home",
+              "description": "OCBC Bank 是新加坡历史最悠久的本土银行之一，也是东南亚第二大金融服务集团，以稳健的财务实力和广泛的区域网络著称。",
+              "icon": "https://favicon.is/ocbc.com?size=32",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
