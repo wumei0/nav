@@ -357,7 +357,7 @@
       "title": "金融投资",
       "icon": "Building",
       "description": "",
-      "enabled": false,
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
