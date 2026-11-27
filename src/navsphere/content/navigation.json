@@ -330,6 +330,15 @@
           "icon": "/assets/favicon_1795747774665.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795747831911",
+          "title": "Visual Studio Code",
+          "href": "https://code.visualstudio.com",
+          "description": "由微软（Microsoft）开发的一款免费、开源且跨平台的代码编辑器。它目前是全球范围内最受开发者欢迎的开发工具之一。",
+          "icon": "/assets/favicon_1795747842903.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
