@@ -237,6 +237,15 @@
           "icon": "/assets/favicon_1795744196745.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795744232803",
+          "title": "Grok",
+          "href": "https://grok.com",
+          "description": "Grok 是由 xAI 开发的免费 AI 助手，旨在最大限度地提高准确性和客观性。Grok 提供实时搜索、图像生成、趋势分析等功能。",
+          "icon": "/assets/favicon_1795744235898.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
