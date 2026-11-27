@@ -449,6 +449,15 @@
               "icon": "/assets/favicon_1795749075265.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1795749187365",
+              "title": "IBKR 盈透证券",
+              "href": "https://www.interactivebrokers.com.hk/sso/Login?c=t",
+              "description": "盈透证券（Interactive Brokers，简称IBKR）是全球知名的在线经纪商，成立于1978年，总部位于美国康涅狄格州。作为一家全球性的金融服务公司，盈透证券提供广泛的金融产品和服务，包括股票、期权、期货、外汇、债券、基金等多种资产类别的交易。",
+              "icon": "/assets/favicon_1795749196551.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
