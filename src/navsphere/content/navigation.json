@@ -219,7 +219,17 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "1795744109762",
+          "title": "Gemini",
+          "href": "https://gemini.google.com/app",
+          "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+          "icon": "/assets/favicon_1795744130399.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
