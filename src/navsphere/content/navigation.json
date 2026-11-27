@@ -427,10 +427,11 @@
             },
             {
               "id": "1760611595643",
-              "title": "palmmicro",
-              "href": "https://palmmicro.com/woody/res/chinafuturecn.php",
-              "description": "A股商品等基金净值计算工具",
-              "icon": "/assets/favicon_1760611626932.webp",
+              "title": "Swissquote 瑞讯银行",
+              "href": "https://trade.swissquote.ch/my.policy",
+              "description": "Swissquote 瑞讯银行是一家总部位于瑞士的在线银行和金融服务公司，以数字化交易平台和创新金融科技著称。它是瑞士最大的在线银行之一，专注于证券交易、外汇、加密货币和数字金融服务。",
+              "icon": "https://favicon.is/trade.swissquote.ch?size=32",
+              "useDefaultIcon": false,
               "enabled": true
             }
           ]
