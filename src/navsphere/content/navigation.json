@@ -306,23 +306,6 @@
       ],
       "subCategories": [
         {
-          "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754295485849",
-              "title": "namecheap",
-              "href": "https://www.namecheap.com/",
-              "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
-              "icon": "/assets/favicon_1754295511938.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
           "title": "付费订阅托管平台",
           "icon": "BookOpen",
