@@ -396,10 +396,11 @@
             },
             {
               "id": "1760611357060",
-              "title": "集思录",
-              "href": "https://www.jisilu.cn/",
-              "description": "集思录，一个以数据为本的投资社区",
-              "icon": "/assets/favicon_1760611378684.webp",
+              "title": "Wirex",
+              "href": "https://id.wirexapp.com/login",
+              "description": "Wirex 是全球领先的加密货币与传统货币支付平台，提供钱包、借记卡、即时兑换、收益产品和全球转账。",
+              "icon": "https://favicon.is/id.wirexapp.com?size=32",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
