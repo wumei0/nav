@@ -339,6 +339,15 @@
           "icon": "/assets/favicon_1795747842903.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795747974383",
+          "title": "Sublime Text",
+          "href": "https://www.sublimetext.com",
+          "description": "一款功能强大的文本编辑器，可用于编辑代码、标记语言和散文。",
+          "icon": "/assets/favicon_1795747982879.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
