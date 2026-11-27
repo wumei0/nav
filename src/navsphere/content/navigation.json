@@ -255,6 +255,15 @@
           "icon": "/assets/favicon_1795744286876.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1795744323747",
+          "title": "Doubao",
+          "href": "https://www.doubao.com/chat",
+          "description": "豆包是一个上手简单、功能全面且极具亲和力的 AI 工具。无论你是需要一个高效率的生产力工具，还是一个随叫随到的知识百科，豆包都是目前国内非常值得尝试的 AI 产品。",
+          "icon": "/assets/favicon_1795744318044.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": [],
