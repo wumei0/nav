@@ -656,10 +656,11 @@
           "items": [
             {
               "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.webp",
+              "title": "圣达菲学院",
+              "href": "https://www.sfcollege.edu/esantafe",
+              "description": "一所位于美国佛罗里达州盖恩斯维尔的公立社区学院，以高学历、丰富的专业选择和良好的转学途径而闻名。它是佛罗里达州社区学院体系的一部分，提供副天主教、天主教以及职业技术培训。",
+              "icon": "/assets/favicon_1795832325201.png",
+              "useDefaultIcon": false,
               "enabled": true
             }
           ],
