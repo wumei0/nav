@@ -497,8 +497,8 @@
         },
         {
           "id": "4456a57f-c54d-42d3-878e-14154743111e",
-          "title": "📈 交易所",
-          "icon": "Network",
+          "title": "📈 货币交易所",
+          "icon": "Box",
           "description": "",
           "enabled": true,
           "items": [
