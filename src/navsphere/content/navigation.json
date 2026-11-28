@@ -684,10 +684,11 @@
           "items": [
             {
               "id": "6_1",
-              "title": "Adobe After Effects CC",
-              "href": "https://www.adobe.com/cn/products/aftereffects/",
-              "description": "电影般的视觉效果和动态图形。",
-              "icon": "/assets/images/logos/AdobeAfterEffectsCC.webp",
+              "title": "香港 Club Sim",
+              "href": "https://www.clubsim.com.hk/zh",
+              "description": "Club SIM 官网是香港用户申请和管理预付费 SIM 卡与数据服务。",
+              "icon": "/assets/favicon_1795832639972.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
