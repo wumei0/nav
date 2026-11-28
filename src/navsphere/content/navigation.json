@@ -592,10 +592,11 @@
           "items": [
             {
               "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.webp",
+              "title": "OCR图片文字识别工具",
+              "href": "https://uutool.cn/ocr",
+              "description": "OCR图片文字识别工具，支持PDF、截图、扫描件文字提取，一键提取图片文字，转换为可编辑文本，高效处理纸质文档为电子版。",
+              "icon": "/assets/favicon_1795831397199.jpg",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
