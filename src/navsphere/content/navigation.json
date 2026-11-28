@@ -548,10 +548,11 @@
             },
             {
               "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.webp",
+              "title": "InfiniCLOUD",
+              "href": "https://infini-cloud.net",
+              "description": "自管型全能云存储，让您的数据安全无忧。随时随地备份文件与文档，无存储限制烦恼。",
+              "icon": "/assets/favicon_1795831129275.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
