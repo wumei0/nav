@@ -625,6 +625,15 @@
               "icon": "/assets/favicon_1795831811734.svg",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1795831874729",
+              "title": "PDFCraft - 专业 PDF 工具",
+              "href": "https://pdfcraft.devtoolcafe.com/zh",
+              "description": "专业PDF工具 - 免费、私密、基于浏览器。无需上传到服务器，即可在线合并、拆分、压缩、转换和编辑PDF文件。",
+              "icon": "/assets/favicon_1795831879491.svg",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ],
           "enabled": true
