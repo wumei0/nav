@@ -616,6 +616,15 @@
               "icon": "/assets/favicon_1795831547736.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1795831796948",
+              "title": "BentoPDF",
+              "href": "https://www.bentopdf.com/index.html",
+              "description": "BentoPDF是一款功能强大、注重隐私的客户端 PDF 工具包，可让您直接在浏览器中操作、编辑、合并和处理 PDF 文件。无需服务器端处理，确保您的文件安全私密。",
+              "icon": "/assets/favicon_1795831811734.svg",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ],
           "enabled": true
