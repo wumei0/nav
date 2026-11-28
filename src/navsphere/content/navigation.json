@@ -601,10 +601,11 @@
             },
             {
               "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.webp",
+              "title": "二维码识别",
+              "href": "https://uutool.cn/qrcode-decode",
+              "description": "二维码识别解密工具，可以识别解码二维码图片中包含的文本内容，支持二维码解码、二维码扫描，截图粘贴即可快速解析二维码图片，提取文本、网址等信息。",
+              "icon": "/assets/favicon_1795831487637.jpg",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
