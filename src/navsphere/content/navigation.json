@@ -557,10 +557,11 @@
             },
             {
               "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.webp",
+              "title": "MEGA",
+              "href": "https://mega.nz/login",
+              "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
+              "icon": "/assets/favicon_1795831224914.ico",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
