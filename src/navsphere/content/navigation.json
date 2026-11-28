@@ -702,10 +702,11 @@
             },
             {
               "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.webp",
+              "title": "GiffgaFf.com",
+              "href": "https://www.giffgaff.com",
+              "description": "giffgaff 电话卡是一种灵活、低成本、无合约的英国 SIM 卡，适合旅游、留学和长期居住用户。",
+              "icon": "/assets/favicon_1795832861279.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
